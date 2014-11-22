@@ -1,0 +1,6686 @@
+[
+   {
+      "name":"actinium(III) oxide",
+      "formula":"Ac2O3"
+   },
+   {
+      "name":"silver tetrafluoroborate",
+      "formula":"AgBF4"
+   },
+   {
+      "name":"silver bromide",
+      "formula":"AgBr"
+   },
+   {
+      "name":"silver bromate",
+      "formula":"AgBrO3"
+   },
+   {
+      "name":"silver chloride",
+      "formula":"AgCl"
+   },
+   {
+      "name":"dicopper silver trichloride",
+      "formula":"AgCl3Cu2"
+   },
+   {
+      "name":"silver chlorate",
+      "formula":"AgClO3"
+   },
+   {
+      "name":"silver perchlorate",
+      "formula":"AgClO4"
+   },
+   {
+      "name":"silver cyanide",
+      "formula":"AgCN"
+   },
+   {
+      "name":"silver fluoride",
+      "formula":"AgF"
+   },
+   {
+      "name":"silver(II) fluoride",
+      "formula":"AgF2"
+   },
+   {
+      "name":"silver iodide",
+      "formula":"AgI"
+   },
+   {
+      "name":"silver iodate",
+      "formula":"AgIO3"
+   },
+   {
+      "name":"silver permanganate",
+      "formula":"AgMnO4"
+   },
+   {
+      "name":"silver azide",
+      "formula":"AgN3"
+   },
+   {
+      "name":"silver nitrate",
+      "formula":"AgNO3"
+   },
+   {
+      "name":"silver oxide",
+      "formula":"Ag2O"
+   },
+   {
+      "name":"silver monoxide",
+      "formula":"AgO"
+   },
+   {
+      "name":"silver fulminate",
+      "formula":"AgONC"
+   },
+   {
+      "name":"silver hexafluorophosphate",
+      "formula":"AgPF6"
+   },
+   {
+      "name":"silver thiocyanate",
+      "formula":"AgSNC"
+   },
+   {
+      "name":"silver acetylide",
+      "formula":"Ag2C2"
+   },
+   {
+      "name":"silver(I) carbonate",
+      "formula":"Ag2CO3"
+   },
+   {
+      "name":"silver oxalate",
+      "formula":"Ag2C2O4"
+   },
+   {
+      "name":"silver(II) dichloride",
+      "formula":"Ag2Cl2"
+   },
+   {
+      "name":"silver chromate",
+      "formula":"Ag2CrO4"
+   },
+   {
+      "name":"silver dichromate",
+      "formula":"Ag2Cr2O7"
+   },
+   {
+      "name":"silver subfluoride",
+      "formula":"Ag2F"
+   },
+   {
+      "name":"silver molybdate",
+      "formula":"Ag2MoO4"
+   },
+   {
+      "name":"silver(I) oxide",
+      "formula":"Ag2O"
+   },
+   {
+      "name":"silver sulfide",
+      "formula":"Ag2S"
+   },
+   {
+      "name":"silver sulfate",
+      "formula":"Ag2SO4"
+   },
+   {
+      "name":"silver selenide",
+      "formula":"Ag2Se"
+   },
+   {
+      "name":"silver selenite",
+      "formula":"Ag2SeO3"
+   },
+   {
+      "name":"silver selenate",
+      "formula":"Ag2SeO4"
+   },
+   {
+      "name":"silver(I) telluride",
+      "formula":"Ag2Te"
+   },
+   {
+      "name":"silver dibromide",
+      "formula":"Ag3Br2"
+   },
+   {
+      "name":"silver tribromide",
+      "formula":"Ag3Br3"
+   },
+   {
+      "name":"silver(III) trichloride",
+      "formula":"Ag3Cl3"
+   },
+   {
+      "name":"silver(III) triiodide",
+      "formula":"Ag3I3"
+   },
+   {
+      "name":"silver phosphate",
+      "formula":"Ag3PO4"
+   },
+   {
+      "name":"aluminium boron oxide",
+      "formula":"AlBO"
+   },
+   {
+      "name":"aluminium borate",
+      "formula":"AlBO2"
+   },
+   {
+      "name":"aluminium monobromide",
+      "formula":"AlBr"
+   },
+   {
+      "name":"aluminium tribromide",
+      "formula":"AlBr3"
+   },
+   {
+      "name":"aluminium monochloride",
+      "formula":"AlCl"
+   },
+   {
+      "name":"aluminium chloride fluoride",
+      "formula":"AlClF"
+   },
+   {
+      "name":"aluminium chloride fluoride",
+      "formula":"AlClF2"
+   },
+   {
+      "name":"aluminium chloride oxide",
+      "formula":"AlClO"
+   },
+   {
+      "name":"undefined",
+      "formula":"AlCl2H"
+   },
+   {
+      "name":"aluminium chloride",
+      "formula":"AlCl3"
+   },
+   {
+      "name":"aluminium chloride fluoride",
+      "formula":"AlCl2F"
+   },
+   {
+      "name":"aluminium trichloride",
+      "formula":"AlCl3"
+   },
+   {
+      "name":"aluminium caesium tetrachloride",
+      "formula":"AlCl4Cs"
+   },
+   {
+      "name":"potassium tetrachloroaluminate",
+      "formula":"AlCl4K"
+   },
+   {
+      "name":"sodium tetrachloroaluminate",
+      "formula":"AlCl4Na"
+   },
+   {
+      "name":"aluminium rubidium tetrachloride",
+      "formula":"AlCl4Rb"
+   },
+   {
+      "name":"potassium hexachloroaluminate",
+      "formula":"AlCl6K3"
+   },
+   {
+      "name":"sodium hexachloroaluminate",
+      "formula":"AlCl6Na3"
+   },
+   {
+      "name":"aluminium monofluoride",
+      "formula":"AlF"
+   },
+   {
+      "name":"aluminium monofluoride monoxide",
+      "formula":"AlFO"
+   },
+   {
+      "name":"aluminium difluoride",
+      "formula":"AlF2"
+   },
+   {
+      "name":"aluminium difluoride oxide",
+      "formula":"AlF2O"
+   },
+   {
+      "name":"aluminium trifluoride",
+      "formula":"AlF3"
+   },
+   {
+      "name":"potassium tetrafluoroaluminate",
+      "formula":"AlF4K"
+   },
+   {
+      "name":"lithium tetrafluoroaluminate",
+      "formula":"AlF4Li"
+   },
+   {
+      "name":"potassium hexafluoraluminate",
+      "formula":"AlF6K3"
+   },
+   {
+      "name":"lithium hexafluoroaluminate",
+      "formula":"AlF6Li3"
+   },
+   {
+      "name":"cryolite",
+      "formula":"AlF6Na3"
+   },
+   {
+      "name":"aluminium-gallium-indium phosphide",
+      "formula":"AlGaInP"
+   },
+   {
+      "name":"aluminium hydroxide",
+      "formula":"Al(OH)3"
+   },
+   {
+      "name":"aluminium monoiodide",
+      "formula":"AlI"
+   },
+   {
+      "name":"aluminium triiodide",
+      "formula":"AlI3"
+   },
+   {
+      "name":"lithium aluminate",
+      "formula":"AlLiO2"
+   },
+   {
+      "name":"aluminium nitride",
+      "formula":"AlN"
+   },
+   {
+      "name":"aluminium nitrate",
+      "formula":"Al(NO3)3"
+   },
+   {
+      "name":"sodium aluminate",
+      "formula":"AlNaO2"
+   },
+   {
+      "name":"aluminium monoxide",
+      "formula":"AlO"
+   },
+   {
+      "name":"aluminium silicon monoxide",
+      "formula":"AlOSi"
+   },
+   {
+      "name":"Aluminium(IV) oxide",
+      "formula":"AlO2"
+   },
+   {
+      "name":"aluminium monophosphide",
+      "formula":"AlP"
+   },
+   {
+      "name":"aluminium phosphate",
+      "formula":"AlPO4"
+   },
+   {
+      "name":"aluminium monotelluride",
+      "formula":"AlTe"
+   },
+   {
+      "name":"monoaluminium ditelluride",
+      "formula":"AlTe2"
+   },
+   {
+      "name":"beryllium aluminium oxide",
+      "formula":"Al2BeO4"
+   },
+   {
+      "name":"dialuminium hexabromide",
+      "formula":"Al2Br6"
+   },
+   {
+      "name":"aluminium carbonate",
+      "formula":"Al2(CO3)3"
+   },
+   {
+      "name":"potassium aluminium chloride",
+      "formula":"Al2Cl9K3"
+   },
+   {
+      "name":"cobalt blue",
+      "formula":"Al2CoO4"
+   },
+   {
+      "name":"aluminium fluoride",
+      "formula":"Al2F6"
+   },
+   {
+      "name":"aluminium iodide",
+      "formula":"Al2I6"
+   },
+   {
+      "name":"magnesium aluminium oxide",
+      "formula":"Al2MgO4"
+   },
+   {
+      "name":"dialuminium monoxide",
+      "formula":"Al2O"
+   },
+   {
+      "name":"dialuminium dioxide",
+      "formula":"Al2O2"
+   },
+   {
+      "name":"aluminium oxide",
+      "formula":"Al2O3"
+   },
+   {
+      "name":"aluminium silicate",
+      "formula":"Al2O5Si"
+   },
+   {
+      "name":"andalusite",
+      "formula":"Al2O5Si"
+   },
+   {
+      "name":"aluminium silicate",
+      "formula":"Al2O7Si2"
+   },
+   {
+      "name":"dialuminium monosulfide",
+      "formula":"Al2S"
+   },
+   {
+      "name":"aluminium sulfide",
+      "formula":"Al2S3"
+   },
+   {
+      "name":"aluminium sulfate",
+      "formula":"Al2(SO4)3"
+   },
+   {
+      "name":"dialuminium selenide",
+      "formula":"Al2Se"
+   },
+   {
+      "name":"dialuminium telluride",
+      "formula":"Al2Te"
+   },
+   {
+      "name":"chiolite",
+      "formula":"Al3F14Na5"
+   },
+   {
+      "name":"undefined",
+      "formula":"Al4C3"
+   },
+   {
+      "name":"beryllium aluminium oxide",
+      "formula":"Al6BeO10"
+   },
+   {
+      "name":"mullite",
+      "formula":"Al6O13Si2"
+   },
+   {
+      "name":"argon chloride fluoride",
+      "formula":"ArClF"
+   },
+   {
+      "name":"argon chloride hydride",
+      "formula":"ArClH"
+   },
+   {
+      "name":"argon fluoride hydride",
+      "formula":"ArFH"
+   },
+   {
+      "name":"arsenic oxybromide",
+      "formula":"AsBrO"
+   },
+   {
+      "name":"arsenic tribromide",
+      "formula":"AsBr3"
+   },
+   {
+      "name":"arsenic monoxide monochloride",
+      "formula":"AsClO"
+   },
+   {
+      "name":"arsenic trichloride",
+      "formula":"AsCl3"
+   },
+   {
+      "name":"arsenic oxychloride",
+      "formula":"AsCl3O"
+   },
+   {
+      "name":"arsenic tetrachloride fluoride",
+      "formula":"AsCl4F"
+   },
+   {
+      "name":"arsenic trifluoride",
+      "formula":"AsF3"
+   },
+   {
+      "name":"arsenic pentafluoride",
+      "formula":"AsF5"
+   },
+   {
+      "name":"arsine",
+      "formula":"AsH3"
+   },
+   {
+      "name":"arsenic triiodide",
+      "formula":"AsI3"
+   },
+   {
+      "name":"arsenic monoxide",
+      "formula":"AsO"
+   },
+   {
+      "name":"arsenic dioxide",
+      "formula":"AsO2"
+   },
+   {
+      "name":"arsenic monophosphide",
+      "formula":"AsP"
+   },
+   {
+      "name":"arsenic triphosphide",
+      "formula":"AsP3"
+   },
+   {
+      "name":"thallium arsenide",
+      "formula":"AsTl"
+   },
+   {
+      "name":"arsenic diiodide",
+      "formula":"As2I4"
+   },
+   {
+      "name":"arsenic trioxide",
+      "formula":"As2O3"
+   },
+   {
+      "name":"arsenic diphosphide",
+      "formula":"As2P2"
+   },
+   {
+      "name":"arsenic pentaoxide",
+      "formula":"As2O5"
+   },
+   {
+      "name":"arsenic tetrasulfide",
+      "formula":"As2S4"
+   },
+   {
+      "name":"arsenic pentasulfide",
+      "formula":"As2S5"
+   },
+   {
+      "name":"arsenic hemiselenide",
+      "formula":"As2Se"
+   },
+   {
+      "name":"arsenic triselenide",
+      "formula":"As2Se3"
+   },
+   {
+      "name":"arsenic pentaselenide",
+      "formula":"As2Se5"
+   },
+   {
+      "name":"arsenic tetraoxide",
+      "formula":"As3O4"
+   },
+   {
+      "name":"arsenic(III) phosphide",
+      "formula":"As3P"
+   },
+   {
+      "name":"tetraarsenic trioxide",
+      "formula":"As4O3"
+   },
+   {
+      "name":"tetraarsenic pentaoxide",
+      "formula":"As4O5"
+   },
+   {
+      "name":"tetraarsenic trisulfide",
+      "formula":"As4S3"
+   },
+   {
+      "name":"tetraarsenic tetrasulfide",
+      "formula":"As4S4"
+   },
+   {
+      "name":"gold monoboride monoxide",
+      "formula":"AuBO"
+   },
+   {
+      "name":"gold bromide",
+      "formula":"AuBr"
+   },
+   {
+      "name":"gold tribromide",
+      "formula":"AuBr3"
+   },
+   {
+      "name":"gold cyanide",
+      "formula":"AuCN"
+   },
+   {
+      "name":"gold chloride",
+      "formula":"AuCl"
+   },
+   {
+      "name":"gold trichloride",
+      "formula":"AuCl3"
+   },
+   {
+      "name":"gold trifluoride",
+      "formula":"AuF3"
+   },
+   {
+      "name":"gold iodide",
+      "formula":"AuI"
+   },
+   {
+      "name":"gold(III) iodide",
+      "formula":"AuI3"
+   },
+   {
+      "name":"gold hydroxide",
+      "formula":"Au(OH)3"
+   },
+   {
+      "name":"gold telluride",
+      "formula":"AuTe"
+   },
+   {
+      "name":"gold trioxide",
+      "formula":"Au2O3"
+   },
+   {
+      "name":"gold sulfide",
+      "formula":"Au2S"
+   },
+   {
+      "name":"gold trisulfide",
+      "formula":"Au2S3"
+   },
+   {
+      "name":"gold triselenate",
+      "formula":"Au2(SeO4)3"
+   },
+   {
+      "name":"gold triselenide",
+      "formula":"Au2Se3"
+   },
+   {
+      "name":"boron arsenide",
+      "formula":"BAs"
+   },
+   {
+      "name":"boron(III) arsenate",
+      "formula":"BAsO4"
+   },
+   {
+      "name":"boron tribromide",
+      "formula":"BBr3"
+   },
+   {
+      "name":"boron trichloride",
+      "formula":"BCl3"
+   },
+   {
+      "name":"boron trifluoride",
+      "formula":"BF3"
+   },
+   {
+      "name":"boron iodide",
+      "formula":"BI3"
+   },
+   {
+      "name":"boron nitride",
+      "formula":"BN"
+   },
+   {
+      "name":"boric acid",
+      "formula":"B(OH)3"
+   },
+   {
+      "name":"boron(III) phosphide",
+      "formula":"BP"
+   },
+   {
+      "name":"boron(III) orthophosphate",
+      "formula":"BPO4"
+   },
+   {
+      "name":"boron chloride",
+      "formula":"B2Cl4"
+   },
+   {
+      "name":"boron trifluoride",
+      "formula":"B2F4"
+   },
+   {
+      "name":"boron hydride",
+      "formula":"B2H6"
+   },
+   {
+      "name":"boron(III) oxide",
+      "formula":"B2O3"
+   },
+   {
+      "name":"boron sulfide",
+      "formula":"B2S3"
+   },
+   {
+      "name":"borazine",
+      "formula":"B3N3H6"
+   },
+   {
+      "name":"boron carbide",
+      "formula":"B4C"
+   },
+   {
+      "name":"barium aluminate",
+      "formula":"Ba(AlO2)2"
+   },
+   {
+      "name":"barium arsenite",
+      "formula":"Ba(AsO3)2"
+   },
+   {
+      "name":"barium arsenate",
+      "formula":"Ba(AsO4)2"
+   },
+   {
+      "name":"barium hexaboride",
+      "formula":"BaB6"
+   },
+   {
+      "name":"barium bromate monohydrate",
+      "formula":"Ba(BrO3)2(H2O)"
+   },
+   {
+      "name":"barium bromate dihydrate",
+      "formula":"Ba(BrO3)2(2H2O)"
+   },
+   {
+      "name":"barium bromide",
+      "formula":"BaBr2"
+   },
+   {
+      "name":"barium formate",
+      "formula":"Ba(CHO2)2"
+   },
+   {
+      "name":"undefined",
+      "formula":"Ba(C2H3O2)2"
+   },
+   {
+      "name":"barium cyanide",
+      "formula":"Ba(CN)2"
+   },
+   {
+      "name":"barium oxalate",
+      "formula":"BaC2O4"
+   },
+   {
+      "name":"barium carbide",
+      "formula":"BaC2"
+   },
+   {
+      "name":"barium carbonate",
+      "formula":"BaCO3"
+   },
+   {
+      "name":"barium perchlorate",
+      "formula":"Ba(ClO4)2"
+   },
+   {
+      "name":"barium chloride",
+      "formula":"BaCl2"
+   },
+   {
+      "name":"barium chromate",
+      "formula":"BaCrO4"
+   },
+   {
+      "name":"barium fluoride",
+      "formula":"BaF2"
+   },
+   {
+      "name":"gillespite",
+      "formula":"BaFeSi4O10"
+   },
+   {
+      "name":"barium tetraiodomercurate(II)",
+      "formula":"BaHgI4"
+   },
+   {
+      "name":"barium iodide",
+      "formula":"BaI2"
+   },
+   {
+      "name":"barium potassium chromate",
+      "formula":"BaK2(CrO4)2"
+   },
+   {
+      "name":"barium manganate",
+      "formula":"BaMnO4"
+   },
+   {
+      "name":"barium permanganate",
+      "formula":"Ba(MnO4)2"
+   },
+   {
+      "name":"barium molybdate",
+      "formula":"BaMoO4"
+   },
+   {
+      "name":"barium azide",
+      "formula":"BaN6"
+   },
+   {
+      "name":"barium nitrite",
+      "formula":"Ba(NO2)2"
+   },
+   {
+      "name":"barium nitrate",
+      "formula":"Ba(NO3)2"
+   },
+   {
+      "name":"barium niobate",
+      "formula":"Ba(NbO3)2"
+   },
+   {
+      "name":"barium metaniobate",
+      "formula":"BaNb2O6"
+   },
+   {
+      "name":"barium oxide",
+      "formula":"BaO"
+   },
+   {
+      "name":"barium hydroxide",
+      "formula":"Ba(OH)2"
+   },
+   {
+      "name":"barium dioxide",
+      "formula":"BaO2"
+   },
+   {
+      "name":"barium metaphosphate",
+      "formula":"Ba(PO3)2"
+   },
+   {
+      "name":"barium sulfide",
+      "formula":"BaS"
+   },
+   {
+      "name":"barium thiocyanate",
+      "formula":"Ba(SCN)2"
+   },
+   {
+      "name":"barium thiosulfate",
+      "formula":"BaS2O3"
+   },
+   {
+      "name":"barium hexafluorosilicate",
+      "formula":"BaSiF6"
+   },
+   {
+      "name":"barium sulfite",
+      "formula":"BaSO3"
+   },
+   {
+      "name":"barium sulfate",
+      "formula":"BaSO4"
+   },
+   {
+      "name":"barium selenide",
+      "formula":"BaSe"
+   },
+   {
+      "name":"barium selenite",
+      "formula":"BaSeO3"
+   },
+   {
+      "name":"barium selenate",
+      "formula":"BaSeO4"
+   },
+   {
+      "name":"barium metasilicate",
+      "formula":"BaSiO3"
+   },
+   {
+      "name":"barium silicide",
+      "formula":"BaSi2"
+   },
+   {
+      "name":"barium disilicate",
+      "formula":"BaSi2O5"
+   },
+   {
+      "name":"barium stannate",
+      "formula":"BaSn3"
+   },
+   {
+      "name":"barium tellurite",
+      "formula":"BaTeO3"
+   },
+   {
+      "name":"barium tellurate trihydrate",
+      "formula":"BaTeO4(3H2O)"
+   },
+   {
+      "name":"barium titanate",
+      "formula":"BaTiO3"
+   },
+   {
+      "name":"barium uranium oxide",
+      "formula":"BaU2O7"
+   },
+   {
+      "name":"barium tungstate",
+      "formula":"BaWO4"
+   },
+   {
+      "name":"barium zirconate",
+      "formula":"BaZrO3"
+   },
+   {
+      "name":"barium sodium niobate",
+      "formula":"Ba2Na(NbO3)5"
+   },
+   {
+      "name":"barium pyrophosphate",
+      "formula":"Ba2P2O7"
+   },
+   {
+      "name":"barium pyrovanadate",
+      "formula":"Ba2V2O7"
+   },
+   {
+      "name":"barium perxenate",
+      "formula":"Ba2XeO6"
+   },
+   {
+      "name":"barium chromate(V)",
+      "formula":"Ba3(CrO4)2"
+   },
+   {
+      "name":"barium nitride",
+      "formula":"Ba3N2"
+   },
+   {
+      "name":"barium orthophosphate",
+      "formula":"Ba3(PO4)2"
+   },
+   {
+      "name":"barium orthovandate",
+      "formula":"Ba3(VO4)2"
+   },
+   {
+      "name":"beryllium boride",
+      "formula":"BeB2"
+   },
+   {
+      "name":"beryllium borohydride",
+      "formula":"Be(BH4)2"
+   },
+   {
+      "name":"beryllium bromide",
+      "formula":"BeBr2"
+   },
+   {
+      "name":"beryllium formate",
+      "formula":"Be(CHO2)2"
+   },
+   {
+      "name":"beryllium acetate",
+      "formula":"Be(C2H3O2)2"
+   },
+   {
+      "name":"beryllium acetylacetonate",
+      "formula":"Be(C5H7O2)2"
+   },
+   {
+      "name":"beryllium chloride",
+      "formula":"BeCl2"
+   },
+   {
+      "name":"beryllium fluoride",
+      "formula":"BeF2"
+   },
+   {
+      "name":"beryllium iodide",
+      "formula":"BeI2"
+   },
+   {
+      "name":"beryllium oxide",
+      "formula":"BeO"
+   },
+   {
+      "name":"beryllium hydroxide",
+      "formula":"Be(OH)2"
+   },
+   {
+      "name":"beryllium sulfide",
+      "formula":"BeS"
+   },
+   {
+      "name":"beryllium sulfate",
+      "formula":"BeSO4"
+   },
+   {
+      "name":"beryllium carbide",
+      "formula":"Be2C"
+   },
+   {
+      "name":"beryllium nitride",
+      "formula":"Be3N2"
+   },
+   {
+      "name":"bismuth(III) orthoborate",
+      "formula":"BiBO3"
+   },
+   {
+      "name":"bismuth(III) bromide",
+      "formula":"BiBr3"
+   },
+   {
+      "name":"bismuth(III) acetate",
+      "formula":"Bi(C2H3O2)3"
+   },
+   {
+      "name":"bismuth(III) citrate",
+      "formula":"BiC6H5O7"
+   },
+   {
+      "name":"bismuth(III) chloride",
+      "formula":"BiCl3"
+   },
+   {
+      "name":"bismuth(III) fluoride",
+      "formula":"BiF3"
+   },
+   {
+      "name":"bismuth(III) iodide",
+      "formula":"BiI3"
+   },
+   {
+      "name":"bismuth(III) nitrate pentahydrate",
+      "formula":"Bi(NO3)3(5H2O)"
+   },
+   {
+      "name":"bismuth(III) oxychloride",
+      "formula":"BiOCl"
+   },
+   {
+      "name":"bismuth(III) oxyiodide",
+      "formula":"BiOI"
+   },
+   {
+      "name":"bismuth oxycarbonate",
+      "formula":"(BiO)2CO3"
+   },
+   {
+      "name":"bismuth(III) orthophosphate",
+      "formula":"BiPO4"
+   },
+   {
+      "name":"bismuth(III) metavanadate",
+      "formula":"Bi(VO3)5"
+   },
+   {
+      "name":"bismuth(III) selenide",
+      "formula":"Bi2Se3"
+   },
+   {
+      "name":"bismuth(III) molybdate",
+      "formula":"Bi2(MoO4)3"
+   },
+   {
+      "name":"bismuth(III) oxide",
+      "formula":"Bi2O3"
+   },
+   {
+      "name":"bismuth(III) sulfide",
+      "formula":"Bi2S3"
+   },
+   {
+      "name":"bismuth(III) selenide",
+      "formula":"Bi2Se3"
+   },
+   {
+      "name":"bromine chloride",
+      "formula":"BrCl"
+   },
+   {
+      "name":"bromate ion",
+      "formula":"BrO3"
+   },
+   {
+      "name":"bromine",
+      "formula":"Br2"
+   },
+   {
+      "name":"freon-12",
+      "formula":"CCl2F2"
+   },
+   {
+      "name":"carbon tetrachloride",
+      "formula":"CCl4"
+   },
+   {
+      "name":"freon-11",
+      "formula":"CFCl3"
+   },
+   {
+      "name":"freon-13",
+      "formula":"CFCl2CF2Cl"
+   },
+   {
+      "name":"chloroform",
+      "formula":"CHCl3"
+   },
+   {
+      "name":"formate",
+      "formula":"CHO2"
+   },
+   {
+      "name":"1,3-butadiene",
+      "formula":"CH2CHCHCH2"
+   },
+   {
+      "name":"ketene",
+      "formula":"CH2CO"
+   },
+   {
+      "name":"chloroacetic acid",
+      "formula":"CH2ClCOOH"
+   },
+   {
+      "name":"dichloromethane",
+      "formula":"CH2Cl2"
+   },
+   {
+      "name":"formaldehyde",
+      "formula":"CH2O"
+   },
+   {
+      "name":"ethylene glycol",
+      "formula":"CH2OHCH2OH"
+   },
+   {
+      "name":"propyne",
+      "formula":"CH3CCH"
+   },
+   {
+      "name":"2-butene",
+      "formula":"CH3CHCHCH3"
+   },
+   {
+      "name":"propene",
+      "formula":"CH3CHCH2"
+   },
+   {
+      "name":"acetaldehyde",
+      "formula":"CH3CHO"
+   },
+   {
+      "name":"bromoethane",
+      "formula":"CH3CH2Br"
+   },
+   {
+      "name":"butan-1-ol",
+      "formula":"CH3CH2CH2CH2OH"
+   },
+   {
+      "name":"1-propanol",
+      "formula":"CH3CH2CH2OH"
+   },
+   {
+      "name":"propanamide",
+      "formula":"CH3CH2CONH2"
+   },
+   {
+      "name":"propionic acid",
+      "formula":"CH3CH2COOH"
+   },
+   {
+      "name":"diethyl ether",
+      "formula":"CH3CH2OCH2CH3"
+   },
+   {
+      "name":"ethanol",
+      "formula":"CH3CH2OH"
+   },
+   {
+      "name":"stearic acid",
+      "formula":"CH3(CH2)16COOH"
+   },
+   {
+      "name":"acetone",
+      "formula":"CH3COCH3"
+   },
+   {
+      "name":"acetyl chloride",
+      "formula":"CH3COCl"
+   },
+   {
+      "name":"acetamide",
+      "formula":"CH3CONH2"
+   },
+   {
+      "name":"acetate",
+      "formula":"CH3COO"
+   },
+   {
+      "name":"vinyl acetate",
+      "formula":"CH3COOCHCH2"
+   },
+   {
+      "name":"benzyl acetate",
+      "formula":"CH3COOCH2C6H5"
+   },
+   {
+      "name":"isoamyl acetate",
+      "formula":"CH3COO(CH2)2CH(CH3)2"
+   },
+   {
+      "name":"acetic acid",
+      "formula":"CH3COOH"
+   },
+   {
+      "name":"chloromethane",
+      "formula":"CH3Cl"
+   },
+   {
+      "name":"iodomethane",
+      "formula":"CH3I"
+   },
+   {
+      "name":"dimethyl ether",
+      "formula":"CH3OCH3"
+   },
+   {
+      "name":"methanol",
+      "formula":"CH3OH"
+   },
+   {
+      "name":"dimethyl sulfide",
+      "formula":"CH3SCH3"
+   },
+   {
+      "name":"methanethiol",
+      "formula":"CH3SH"
+   },
+   {
+      "name":"isopropyl alcohol",
+      "formula":"(CH3)2CHOH"
+   },
+   {
+      "name":"acetone",
+      "formula":"(CH3)2CO"
+   },
+   {
+      "name":"dimethyl oxalate",
+      "formula":"(CH3)2C2O4"
+   },
+   {
+      "name":"dimethyl hydrazine",
+      "formula":"(CH3)2NNH2"
+   },
+   {
+      "name":"dimethylsulfoniopropionate",
+      "formula":"(CH3)2SCH2CH2COO"
+   },
+   {
+      "name":"<i>t</i>-butyl chloride",
+      "formula":"(CH3)3CCl"
+   },
+   {
+      "name":"<i>t</i>-butyl alcohol",
+      "formula":"(CH)3COH"
+   },
+   {
+      "name":"di-<i>t</i>-butyl peroxide",
+      "formula":"(CH3)3COOC(CH3)3"
+   },
+   {
+      "name":"methane",
+      "formula":"CH4"
+   },
+   {
+      "name":"cyanide ion",
+      "formula":"CN"
+   },
+   {
+      "name":"guanidine nitrate",
+      "formula":"C(NH2)3NO3"
+   },
+   {
+      "name":"cyanate ion",
+      "formula":"CNO"
+   },
+   {
+      "name":"carbon monoxide",
+      "formula":"CO"
+   },
+   {
+      "name":"phosgene",
+      "formula":"COCl2"
+   },
+   {
+      "name":"carbon dioxide",
+      "formula":"CO2"
+   },
+   {
+      "name":"carbon trioxide",
+      "formula":"CO3"
+   },
+   {
+      "name":"carbonate ion",
+      "formula":"CO3"
+   },
+   {
+      "name":"carbon disulfide",
+      "formula":"CS2"
+   },
+   {
+      "name":"tetrafluoroethylene",
+      "formula":"C2F4"
+   },
+   {
+      "name":"acetylene",
+      "formula":"C2H2"
+   },
+   {
+      "name":"vinyl chloride",
+      "formula":"C2H3Cl"
+   },
+   {
+      "name":"acetate ion",
+      "formula":"C2H3O2"
+   },
+   {
+      "name":"ethylene",
+      "formula":"C2H4"
+   },
+   {
+      "name":"ethylene dichloride",
+      "formula":"C2H4Cl2"
+   },
+   {
+      "name":"acetic acid",
+      "formula":"C2H4O2"
+   },
+   {
+      "name":"bromoethane",
+      "formula":"C2H5Br"
+   },
+   {
+      "name":"ethylamine",
+      "formula":"C2H5NH2"
+   },
+   {
+      "name":"glycine",
+      "formula":"C2H5NO2"
+   },
+   {
+      "name":"ethoxide ion",
+      "formula":"C2H5O"
+   },
+   {
+      "name":"ethanol",
+      "formula":"C2H5OH"
+   },
+   {
+      "name":"diethylamine",
+      "formula":"(C2H5)2NH"
+   },
+   {
+      "name":"ethane",
+      "formula":"C2H6"
+   },
+   {
+      "name":"dimethyl sulfoxide",
+      "formula":"C2H6OS"
+   },
+   {
+      "name":"oxalate ion",
+      "formula":"C2O4"
+   },
+   {
+      "name":"malonate ion",
+      "formula":"C3H3O4"
+   },
+   {
+      "name":"nitroglycerine",
+      "formula":"C3H5N3O9"
+   },
+   {
+      "name":"cyclopropane",
+      "formula":"C3H6"
+   },
+   {
+      "name":"propylene glycol",
+      "formula":"C3H8O2"
+   },
+   {
+      "name":"alanine",
+      "formula":"C3H7NO2"
+   },
+   {
+      "name":"cysteine",
+      "formula":"C3H7NO2S"
+   },
+   {
+      "name":"serine",
+      "formula":"C3H7NO3"
+   },
+   {
+      "name":"propane",
+      "formula":"C3H8"
+   },
+   {
+      "name":"propanol",
+      "formula":"C3H8O"
+   },
+   {
+      "name":"2-propanol",
+      "formula":"C3H8O"
+   },
+   {
+      "name":"cyanuric acid",
+      "formula":"C3N3(OH)3"
+   },
+   {
+      "name":"cyanuric triazide",
+      "formula":"C3N12"
+   },
+   {
+      "name":"2-bromobutyric acid",
+      "formula":"C4H7BrO2"
+   },
+   {
+      "name":"ethyl bromoacetate",
+      "formula":"C4H7O2Br"
+   },
+   {
+      "name":"aspartic acid",
+      "formula":"C4H7NO4"
+   },
+   {
+      "name":"cyclobutane",
+      "formula":"C4H8"
+   },
+   {
+      "name":"asparagine",
+      "formula":"C4H8N2O3"
+   },
+   {
+      "name":"tetrahydrofuran",
+      "formula":"C4H8O"
+   },
+   {
+      "name":"threonine",
+      "formula":"C4H9NO3"
+   },
+   {
+      "name":"butyl alcohol",
+      "formula":"C4H9OH"
+   },
+   {
+      "name":"butane",
+      "formula":"C4H10"
+   },
+   {
+      "name":"undefined",
+      "formula":"2-methylpropane"
+   },
+   {
+      "name":"diethyl ether",
+      "formula":"C4H10O"
+   },
+   {
+      "name":"niacin",
+      "formula":"C5H4NCOOH"
+   },
+   {
+      "name":"cyclopentadienyl anion",
+      "formula":"C5H5"
+   },
+   {
+      "name":"pyridine",
+      "formula":"C5H5N"
+   },
+   {
+      "name":"proline",
+      "formula":"C5H9NO2"
+   },
+   {
+      "name":"glutamic acid",
+      "formula":"C5H9NO4"
+   },
+   {
+      "name":"cyclopentane",
+      "formula":"C5H10"
+   },
+   {
+      "name":"glutamine",
+      "formula":"C5H10N2O3"
+   },
+   {
+      "name":"deoxyribose",
+      "formula":"C5H10O4"
+   },
+   {
+      "name":"valine",
+      "formula":"C5H11NO2"
+   },
+   {
+      "name":"methionine",
+      "formula":"C5H11NO2S"
+   },
+   {
+      "name":"pentane",
+      "formula":"C5H12"
+   },
+   {
+      "name":"pentafluorobenzoic acid",
+      "formula":"C6F5COOH"
+   },
+   {
+      "name":"orthobenzoquinone",
+      "formula":"C6H4O2"
+   },
+   {
+      "name":"benzaldehyde",
+      "formula":"C6H5CHO"
+   },
+   {
+      "name":"benzyl alcohol",
+      "formula":"C6H5CH2OH"
+   },
+   {
+      "name":"benzoyl chloride",
+      "formula":"C6H5COCl"
+   },
+   {
+      "name":"benzoate ion",
+      "formula":"C6H5COO"
+   },
+   {
+      "name":"benzoic acid",
+      "formula":"C6H5COOH"
+   },
+   {
+      "name":"fluorobenzene",
+      "formula":"C6H5F"
+   },
+   {
+      "name":"phenol",
+      "formula":"C6H5OH"
+   },
+   {
+      "name":"citrate ion",
+      "formula":"C6H5O7"
+   },
+   {
+      "name":"tetraphenylgermane",
+      "formula":"(C6H5)4Ge"
+   },
+   {
+      "name":"benzene",
+      "formula":"C6H6"
+   },
+   {
+      "name":"catechol",
+      "formula":"C6H6O2"
+   },
+   {
+      "name":"hydroquinone",
+      "formula":"C6H4(OH)2"
+   },
+   {
+      "name":"resorcinol",
+      "formula":"C6H6O2"
+   },
+   {
+      "name":"citric acid",
+      "formula":"C6H8O7"
+   },
+   {
+      "name":"histidine",
+      "formula":"C6H9N3O2"
+   },
+   {
+      "name":"4-acetylbutyric acid",
+      "formula":"C6H10O3"
+   },
+   {
+      "name":"butyl glyoxylate",
+      "formula":"C6H10O3"
+   },
+   {
+      "name":"ethyl acetoacetate",
+      "formula":"C6H10O3"
+   },
+   {
+      "name":"2-hydroxypropyl acrylate",
+      "formula":"H2CCHCO2C3H6OH"
+   },
+   {
+      "name":"pantolactone",
+      "formula":"C6H10O3"
+   },
+   {
+      "name":"propyl pyruvate",
+      "formula":"C8H16O2"
+   },
+   {
+      "name":"cyclohexane",
+      "formula":"C6H12"
+   },
+   {
+      "name":"fructose",
+      "formula":"C6H12O6"
+   },
+   {
+      "name":"glucose",
+      "formula":"C6H12O6"
+   },
+   {
+      "name":"<i>N</i>-ethylmorpholine",
+      "formula":"C6H13NO"
+   },
+   {
+      "name":"isoleucine",
+      "formula":"C6H13NO2"
+   },
+   {
+      "name":"leucine",
+      "formula":"C6H13NO2"
+   },
+   {
+      "name":"hexane",
+      "formula":"C6H14"
+   },
+   {
+      "name":"lysine",
+      "formula":"C6H14N2O2"
+   },
+   {
+      "name":"arginine",
+      "formula":"C6H14N4O2"
+   },
+   {
+      "name":"toluene",
+      "formula":"C7H8"
+   },
+   {
+      "name":"heptane",
+      "formula":"C7H16"
+   },
+   {
+      "name":"cubane",
+      "formula":"C8H8"
+   },
+   {
+      "name":"acetaminophen",
+      "formula":"C8H9NO2"
+   },
+   {
+      "name":"octane",
+      "formula":"C8H18"
+   },
+   {
+      "name":"aspirin",
+      "formula":"C9H8O4"
+   },
+   {
+      "name":"phenylalanine",
+      "formula":"C9H11NO2"
+   },
+   {
+      "name":"tyrosine",
+      "formula":"C9H11NO3"
+   },
+   {
+      "name":"nonane",
+      "formula":"C9H20"
+   },
+   {
+      "name":"naphthalene",
+      "formula":"C10H8"
+   },
+   {
+      "name":"mentha spicata herb oil",
+      "formula":"C10H14O"
+   },
+   {
+      "name":"ephedrine",
+      "formula":"C10H15ON"
+   },
+   {
+      "name":"camphor",
+      "formula":"C10H16O"
+   },
+   {
+      "name":"decane",
+      "formula":"C10H22"
+   },
+   {
+      "name":"tryptophan",
+      "formula":"C11H12N2O2"
+   },
+   {
+      "name":"undecane",
+      "formula":"C11H24"
+   },
+   {
+      "name":"biphenyl",
+      "formula":"C12H10"
+   },
+   {
+      "name":"maltose",
+      "formula":"C12H22O11"
+   },
+   {
+      "name":"sucrose",
+      "formula":"C12H22O11"
+   },
+   {
+      "name":"dodecane",
+      "formula":"C12H26"
+   },
+   {
+      "name":"benzophenone",
+      "formula":"C13H10O"
+   },
+   {
+      "name":"β-ionone",
+      "formula":"C13H12O"
+   },
+   {
+      "name":"tridecane",
+      "formula":"C13H28"
+   },
+   {
+      "name":"anthracene",
+      "formula":"C14H10"
+   },
+   {
+      "name":"benzoyl peroxide",
+      "formula":"C14H10O14"
+   },
+   {
+      "name":"aspartame",
+      "formula":"C14H18N2O5"
+   },
+   {
+      "name":"tetradecane",
+      "formula":"C14H30"
+   },
+   {
+      "name":"pentadecane",
+      "formula":"C15H32"
+   },
+   {
+      "name":"hexadecane",
+      "formula":"C16H34"
+   },
+   {
+      "name":"heptadecane",
+      "formula":"C17H36"
+   },
+   {
+      "name":"linoleic acid",
+      "formula":"C18H32O2"
+   },
+   {
+      "name":"stearic acid",
+      "formula":"C18H36O2"
+   },
+   {
+      "name":"octadecane",
+      "formula":"C18H38"
+   },
+   {
+      "name":"nonadecane",
+      "formula":"C19H40"
+   },
+   {
+      "name":"quinine",
+      "formula":"C20H24O2N2"
+   },
+   {
+      "name":"eicosane",
+      "formula":"C20H42"
+   },
+   {
+      "name":"Coenzyme A",
+      "formula":"C21H36N7O16P3S"
+   },
+   {
+      "name":"tetrahydrocannabinol",
+      "formula":"C21H30O2"
+   },
+   {
+      "name":"maitotoxin",
+      "formula":"C164H256Na2O68S2"
+   },
+   {
+      "name":"Chlorine octaoxide",
+      "formula":"Cl2O8"
+   },
+   {
+      "name":"calcium boride",
+      "formula":"CaB6"
+   },
+   {
+      "name":"calcium bromide",
+      "formula":"CaBr2"
+   },
+   {
+      "name":"calcium cyanide",
+      "formula":"Ca(CN)2"
+   },
+   {
+      "name":"calcium carbonate",
+      "formula":"CaCO3"
+   },
+   {
+      "name":"calcium carbide",
+      "formula":"CaC2"
+   },
+   {
+      "name":"calcium formate",
+      "formula":"Ca(CHO2)2"
+   },
+   {
+      "name":"calcium acetate",
+      "formula":"Ca(C2H3O2)2"
+   },
+   {
+      "name":"calcium oxalate",
+      "formula":"CaC2O4"
+   },
+   {
+      "name":"calcium cyanamide",
+      "formula":"CaCN2"
+   },
+   {
+      "name":"calcium chloride",
+      "formula":"CaCl2"
+   },
+   {
+      "name":"calcium chlorate",
+      "formula":"Ca(ClO3)2"
+   },
+   {
+      "name":"calcium perchlorate",
+      "formula":"Ca(ClO4)2"
+   },
+   {
+      "name":"calcium fluoride",
+      "formula":"CaF2"
+   },
+   {
+      "name":"calcium hydride",
+      "formula":"CaH2"
+   },
+   {
+      "name":"calcium hypophosphite",
+      "formula":"Ca(H2PO2)2"
+   },
+   {
+      "name":"calcium iodide",
+      "formula":"CaI2"
+   },
+   {
+      "name":"calcium iodate",
+      "formula":"Ca(IO3)2"
+   },
+   {
+      "name":"calcium molybdate",
+      "formula":"CaMoO4"
+   },
+   {
+      "name":"calcium nitrite",
+      "formula":"Ca(NO2)2"
+   },
+   {
+      "name":"calcium nitrate",
+      "formula":"Ca(NO3)2"
+   },
+   {
+      "name":"Calcium nitrate tetrahydrate",
+      "formula":"Ca(NO3)2( 4H2O)"
+   },
+   {
+      "name":"calcium metaniobate",
+      "formula":"Ca(NbO3)2"
+   },
+   {
+      "name":"quicklime",
+      "formula":"CaO"
+   },
+   {
+      "name":"calcium hypochlorite",
+      "formula":"Ca(ClO)2"
+   },
+   {
+      "name":"calcium hydroxide",
+      "formula":"Ca(OH)2"
+   },
+   {
+      "name":"calcium peroxide",
+      "formula":"CaO2"
+   },
+   {
+      "name":"calcium sulfide",
+      "formula":"CaS"
+   },
+   {
+      "name":"calcium sulfate",
+      "formula":"CaSO4"
+   },
+   {
+      "name":"plaster of paris",
+      "formula":"CaSO4( 0.5H2O)"
+   },
+   {
+      "name":"calcium selenide",
+      "formula":"CaSe"
+   },
+   {
+      "name":"calcium selenite",
+      "formula":"CaSeO3"
+   },
+   {
+      "name":"calcium selenate",
+      "formula":"CaSeO4"
+   },
+   {
+      "name":"wollastonite",
+      "formula":"CaSiO3"
+   },
+   {
+      "name":"calcium telluride",
+      "formula":"CaTe"
+   },
+   {
+      "name":"calcium tellurite",
+      "formula":"CaTeO3"
+   },
+   {
+      "name":"calcium tellurate",
+      "formula":"CaTeO4"
+   },
+   {
+      "name":"calcium titanate",
+      "formula":"CaTiO3"
+   },
+   {
+      "name":"calcium metavanadate",
+      "formula":"Ca(VO3)2"
+   },
+   {
+      "name":"calcium orthovanadate",
+      "formula":"Ca(VO4)2"
+   },
+   {
+      "name":"calcium tungstate",
+      "formula":"CaWO4"
+   },
+   {
+      "name":"calcium nitride",
+      "formula":"Ca3N2"
+   },
+   {
+      "name":"calcium phosphide",
+      "formula":"Ca3P2"
+   },
+   {
+      "name":"cadmium bromide",
+      "formula":"CdBr2"
+   },
+   {
+      "name":"cadmium cyanide",
+      "formula":"Cd(CN)2"
+   },
+   {
+      "name":"cadmium carbonate",
+      "formula":"CdCO3"
+   },
+   {
+      "name":"cadmium acetate",
+      "formula":"Cd(C2H3O2)2"
+   },
+   {
+      "name":"cadmium oxalate",
+      "formula":"CdC2O4"
+   },
+   {
+      "name":"cadmium chloride",
+      "formula":"CdCl2"
+   },
+   {
+      "name":"cadmium chromate",
+      "formula":"CdCrO4"
+   },
+   {
+      "name":"cadmium fluoride",
+      "formula":"CdF2"
+   },
+   {
+      "name":"cadmium iodide",
+      "formula":"CdI2"
+   },
+   {
+      "name":"cadmium iodate",
+      "formula":"Cd(IO3)2"
+   },
+   {
+      "name":"cadmium molybdate",
+      "formula":"CdMoO4"
+   },
+   {
+      "name":"cadmium nitrate",
+      "formula":"Cd(NO3)2"
+   },
+   {
+      "name":"cadmium azide",
+      "formula":"Cd(N3)2"
+   },
+   {
+      "name":"cadmium oxide",
+      "formula":"CdO"
+   },
+   {
+      "name":"cadmium hydroxide",
+      "formula":"Cd(OH)2"
+   },
+   {
+      "name":"cadmium sulfide",
+      "formula":"CdS"
+   },
+   {
+      "name":"cadmium sulfite",
+      "formula":"CdSO3"
+   },
+   {
+      "name":"cadmium sulfate",
+      "formula":"CdSO4"
+   },
+   {
+      "name":"cadmium antimonide",
+      "formula":"CdSb"
+   },
+   {
+      "name":"cadmium selenide",
+      "formula":"CdSe"
+   },
+   {
+      "name":"cadmium selenite",
+      "formula":"CdSeO3"
+   },
+   {
+      "name":"cadmium metasilicate",
+      "formula":"CdSiO3"
+   },
+   {
+      "name":"cadmium metatantalate",
+      "formula":"Cd(TaO3)2"
+   },
+   {
+      "name":"cadmium telluride",
+      "formula":"CdTe"
+   },
+   {
+      "name":"cadmium tellurate",
+      "formula":"CdTeO4"
+   },
+   {
+      "name":"cadmium titanate",
+      "formula":"CdTiO3"
+   },
+   {
+      "name":"cadmium tungstate",
+      "formula":"CdWO4"
+   },
+   {
+      "name":"cadmium metazirconate",
+      "formula":"CdZrO3"
+   },
+   {
+      "name":"cadmium niobate",
+      "formula":"Cd2Nb2O7"
+   },
+   {
+      "name":"cadmium arsenide",
+      "formula":"Cd3As2"
+   },
+   {
+      "name":"cadmium phosphide",
+      "formula":"Cd3P2"
+   },
+   {
+      "name":"cadmium phosphate",
+      "formula":"Cd3(PO4)2"
+   },
+   {
+      "name":"cerium boride",
+      "formula":"CeB6"
+   },
+   {
+      "name":"cerium(III) bromide",
+      "formula":"CeBr3"
+   },
+   {
+      "name":"cerium carbide",
+      "formula":"CeC"
+   },
+   {
+      "name":"cerium(III) chloride",
+      "formula":"CeCl3"
+   },
+   {
+      "name":"cerium(III) fluoride",
+      "formula":"CeF3"
+   },
+   {
+      "name":"cerium(IV) fluoride",
+      "formula":"CeF4"
+   },
+   {
+      "name":"cerium(II) iodide",
+      "formula":"CeI2"
+   },
+   {
+      "name":"cerium(III) iodide",
+      "formula":"CeI3"
+   },
+   {
+      "name":"cerium nitride",
+      "formula":"CeN"
+   },
+   {
+      "name":"cerium(IV) oxide",
+      "formula":"CeO2"
+   },
+   {
+      "name":"cerium(II) sulfide",
+      "formula":"CeS"
+   },
+   {
+      "name":"cerium(IV) sulfate",
+      "formula":"Ce(SO4)2"
+   },
+   {
+      "name":"cerium silicide",
+      "formula":"CeSi2"
+   },
+   {
+      "name":"cerium(III) carbide",
+      "formula":"Ce2C3"
+   },
+   {
+      "name":"cerium(III) oxide",
+      "formula":"Ce2O3"
+   },
+   {
+      "name":"cerium(III) sulfide",
+      "formula":"Ce2S3"
+   },
+   {
+      "name":"chlorine fluoride",
+      "formula":"ClF"
+   },
+   {
+      "name":"chlorine trifluoride",
+      "formula":"ClF3"
+   },
+   {
+      "name":"chlorine pentafluoride",
+      "formula":"ClF5"
+   },
+   {
+      "name":"chlorine perchlorate",
+      "formula":"ClOClO3"
+   },
+   {
+      "name":"chlorine dioxide",
+      "formula":"ClO2"
+   },
+   {
+      "name":"chlorine trioxide fluoride",
+      "formula":"ClO3F"
+   },
+   {
+      "name":"chlorine",
+      "formula":"Cl2"
+   },
+   {
+      "name":"chlorine trioxide",
+      "formula":"Cl2O3"
+   },
+   {
+      "name":"chlorine hexoxide",
+      "formula":"Cl2O6"
+   },
+   {
+      "name":"chlorine heptoxide",
+      "formula":"Cl2O7"
+   },
+   {
+      "name":"cobalt(II) aluminate",
+      "formula":"CoAl2O4"
+   },
+   {
+      "name":"cobalt arsenide",
+      "formula":"CoAs"
+   },
+   {
+      "name":"cobalt(II) arsenide",
+      "formula":"CoAs2"
+   },
+   {
+      "name":"cobalt(II) boride",
+      "formula":"CoB"
+   },
+   {
+      "name":"cobalt(II) bromide",
+      "formula":"CoBr2"
+   },
+   {
+      "name":"cobalt(II) cyanide",
+      "formula":"Co(CN)2"
+   },
+   {
+      "name":"cobalt(II) acetate",
+      "formula":"Co(C2H3O2)2"
+   },
+   {
+      "name":"cobalt(III) acetate",
+      "formula":"Co(C2H3O2)3"
+   },
+   {
+      "name":"cobalt(II) oxalate",
+      "formula":"CoC2O4"
+   },
+   {
+      "name":"cobalt(II) perchlorate",
+      "formula":"Co(ClO4)2"
+   },
+   {
+      "name":"cobalt(II) chloride",
+      "formula":"CoCl2"
+   },
+   {
+      "name":"cobalt(II) chromate",
+      "formula":"CoCrO4"
+   },
+   {
+      "name":"cobalt(II) chromite",
+      "formula":"CoCr2O4"
+   },
+   {
+      "name":"cobalt(II) fluoride",
+      "formula":"CoF2"
+   },
+   {
+      "name":"cobalt(III) fluoride",
+      "formula":"CoF3"
+   },
+   {
+      "name":"cobalt(II) iodate",
+      "formula":"Co(IO3)2"
+   },
+   {
+      "name":"cobalt(II) iodide",
+      "formula":"CoI2"
+   },
+   {
+      "name":"cobalt(II) molybdate",
+      "formula":"CoMoO4"
+   },
+   {
+      "name":"cobalt(II) nitrate",
+      "formula":"Co(NO3)2"
+   },
+   {
+      "name":"cobalt(III) nitrate",
+      "formula":"Co(NO3)3"
+   },
+   {
+      "name":"cobalt(II) oxide",
+      "formula":"CoO"
+   },
+   {
+      "name":"cobalt(II) hydroxide",
+      "formula":"Co(OH)2"
+   },
+   {
+      "name":"cobalt(III) hydroxide",
+      "formula":"Co(OH)3"
+   },
+   {
+      "name":"cobalt(II) sulfide",
+      "formula":"CoS"
+   },
+   {
+      "name":"cobalt disulfide",
+      "formula":"CoS2"
+   },
+   {
+      "name":"cobalt antimonide",
+      "formula":"CoSb"
+   },
+   {
+      "name":"cobalt(II) selenide",
+      "formula":"CoSe"
+   },
+   {
+      "name":"cobalt(II) selenite",
+      "formula":"CoSeO3"
+   },
+   {
+      "name":"cobalt(II) telluride",
+      "formula":"CoTe"
+   },
+   {
+      "name":"cobalt(II) titanate",
+      "formula":"CoTiO3"
+   },
+   {
+      "name":"cobalt(II) tungstate",
+      "formula":"CoWO4"
+   },
+   {
+      "name":"cobalt boride",
+      "formula":"Co2B"
+   },
+   {
+      "name":"cobalt(II) sulfate",
+      "formula":"Co2SO4"
+   },
+   {
+      "name":"cobalt(III) sulfide",
+      "formula":"Co2S3"
+   },
+   {
+      "name":"cobalt(II) orthosilicate",
+      "formula":"Co2SiO4"
+   },
+   {
+      "name":"cobalt(II) stannate",
+      "formula":"Co2SnO4"
+   },
+   {
+      "name":"cobalt(II) titanite",
+      "formula":"Co2TiO4"
+   },
+   {
+      "name":"cobalt(II) ferricyanide",
+      "formula":"Co3(Fe(CN)6)2"
+   },
+   {
+      "name":"chromium(II) bromide",
+      "formula":"CrBr2"
+   },
+   {
+      "name":"chromium(III) bromide",
+      "formula":"CrBr3"
+   },
+   {
+      "name":"chromium(II) chloride",
+      "formula":"CrCl2"
+   },
+   {
+      "name":"chromium(III) chloride",
+      "formula":"CrCl3"
+   },
+   {
+      "name":"chromium(IV) chloride",
+      "formula":"CrCl4"
+   },
+   {
+      "name":"chromium(II) fluoride",
+      "formula":"CrF2"
+   },
+   {
+      "name":"chromium(III) fluoride",
+      "formula":"CrF3"
+   },
+   {
+      "name":"chromium(IV) fluoride",
+      "formula":"CrF4"
+   },
+   {
+      "name":"chromium(V) fluoride",
+      "formula":"CrF5"
+   },
+   {
+      "name":"chromium(VI) fluoride",
+      "formula":"CrF6"
+   },
+   {
+      "name":"chromium(II) iodide",
+      "formula":"CrI2"
+   },
+   {
+      "name":"chromium(III) iodide",
+      "formula":"CrI3"
+   },
+   {
+      "name":"chromium(III) nitrate",
+      "formula":"Cr(NO3)3"
+   },
+   {
+      "name":"chromium(III) nitrite",
+      "formula":"Cr(NO2)3"
+   },
+   {
+      "name":"chromium(IV) oxide",
+      "formula":"CrO2"
+   },
+   {
+      "name":"chromium(VI) oxide",
+      "formula":"CrO3"
+   },
+   {
+      "name":"chromate",
+      "formula":"CrO4"
+   },
+   {
+      "name":"chromium(VI) oxychloride",
+      "formula":"CrO2Cl2"
+   },
+   {
+      "name":"chromium(III) phosphate",
+      "formula":"CrPO4"
+   },
+   {
+      "name":"chromium antimonide",
+      "formula":"CrSb"
+   },
+   {
+      "name":"chromium(III) orthovanadate",
+      "formula":"CrVO4"
+   },
+   {
+      "name":"chromium(III) oxide",
+      "formula":"Cr2O3"
+   },
+   {
+      "name":"chromium(III) sulfate",
+      "formula":"Cr2(SO4)3"
+   },
+   {
+      "name":"chromium(III) sulfide",
+      "formula":"Cr2S3"
+   },
+   {
+      "name":"chromium(III) selenide",
+      "formula":"Cr2Se3"
+   },
+   {
+      "name":"chromium(III) tellurate",
+      "formula":"Cr2(TeO4)3"
+   },
+   {
+      "name":"chromium(III) telluride",
+      "formula":"Cr2Te3"
+   },
+   {
+      "name":"chromium(II) arsenide",
+      "formula":"Cr3As2"
+   },
+   {
+      "name":"chromium(II) carbide",
+      "formula":"Cr3C2"
+   },
+   {
+      "name":"chromium(II) antimonide",
+      "formula":"Cr3Sb2"
+   },
+   {
+      "name":"chromium(II) silicide",
+      "formula":"Cr3Si2"
+   },
+   {
+      "name":"caesium borate",
+      "formula":"CsBO2"
+   },
+   {
+      "name":"caesium bromide",
+      "formula":"CsBr"
+   },
+   {
+      "name":"caesium bromate",
+      "formula":"CsBrO3"
+   },
+   {
+      "name":"caesium tribromide",
+      "formula":"CsBr3"
+   },
+   {
+      "name":"caesium cyanide",
+      "formula":"CsCN"
+   },
+   {
+      "name":"caesium acetate",
+      "formula":"CsC2H3O2"
+   },
+   {
+      "name":"caesium chloride",
+      "formula":"CsCl"
+   },
+   {
+      "name":"caesium chlorate",
+      "formula":"CsClO3"
+   },
+   {
+      "name":"caesium perchlorate",
+      "formula":"CsClO4"
+   },
+   {
+      "name":"caesium fluoride",
+      "formula":"CsF"
+   },
+   {
+      "name":"caesium iodide",
+      "formula":"CsI"
+   },
+   {
+      "name":"caesium triiodide",
+      "formula":"CsI3"
+   },
+   {
+      "name":"caesium amide",
+      "formula":"CsNH2"
+   },
+   {
+      "name":"caesium nitrate",
+      "formula":"CsNO3"
+   },
+   {
+      "name":"caesium azide",
+      "formula":"CsN3"
+   },
+   {
+      "name":"caesium metaniobate",
+      "formula":"CsNbO3"
+   },
+   {
+      "name":"caesium hydroxide",
+      "formula":"CsOH"
+   },
+   {
+      "name":"caesium superoxide",
+      "formula":"CsO2"
+   },
+   {
+      "name":"caesium sulfide",
+      "formula":"Cs2S"
+   },
+   {
+      "name":"caesium thiocyanate",
+      "formula":"CsSCN"
+   },
+   {
+      "name":"caesium selenate",
+      "formula":"CsSeO4"
+   },
+   {
+      "name":"caesium metatantalate",
+      "formula":"CsTaO3"
+   },
+   {
+      "name":"caesium carbonate",
+      "formula":"Cs2CO3"
+   },
+   {
+      "name":"caesium oxalate",
+      "formula":"Cs2C2O4"
+   },
+   {
+      "name":"caesium chromate",
+      "formula":"Cs2CrO4"
+   },
+   {
+      "name":"caesium dichromate",
+      "formula":"Cs2Cr2O7"
+   },
+   {
+      "name":"caesium hydrogen orthophosphate",
+      "formula":"Cs2HPO4"
+   },
+   {
+      "name":"caesium molybdate",
+      "formula":"Cs2MoO4"
+   },
+   {
+      "name":"caesium oxide",
+      "formula":"Cs2O"
+   },
+   {
+      "name":"caesium sulfite",
+      "formula":"Cs2SO3"
+   },
+   {
+      "name":"caesium sulfate",
+      "formula":"Cs2SO4"
+   },
+   {
+      "name":"caesium metasilicate",
+      "formula":"Cs2SiO3"
+   },
+   {
+      "name":"caesium tellurate",
+      "formula":"Cs2TeO4"
+   },
+   {
+      "name":"caesium titanate",
+      "formula":"Cs2TiO3"
+   },
+   {
+      "name":"caesium orthotungstate",
+      "formula":"Cs2WO4"
+   },
+   {
+      "name":"caesium orthophosphate",
+      "formula":"Cs3PO4"
+   },
+   {
+      "name":"caesium orthovanadate",
+      "formula":"Cs3VO4"
+   },
+   {
+      "name":"copper(I) bromide",
+      "formula":"CuBr"
+   },
+   {
+      "name":"copper(II) bromate hexahydrate",
+      "formula":"Cu(BrO3)2( 6H2O)"
+   },
+   {
+      "name":"copper(II) bromide",
+      "formula":"CuBr2"
+   },
+   {
+      "name":"copper oxalate",
+      "formula":"CuC2O4"
+   },
+   {
+      "name":"copper(I) chloride",
+      "formula":"CuCl"
+   },
+   {
+      "name":"copper(II) chlorate hexahydrate",
+      "formula":"Cu(ClO3)2( 6H2O)"
+   },
+   {
+      "name":"copper(II) chloride",
+      "formula":"CuCl2"
+   },
+   {
+      "name":"chalcopyrite",
+      "formula":"CuFeS2"
+   },
+   {
+      "name":"copper(II) iron(II) oxide",
+      "formula":"CuFe2O4"
+   },
+   {
+      "name":"copper iron sulfide",
+      "formula":"CuFe2S3"
+   },
+   {
+      "name":"blue vitriol",
+      "formula":"[Cu(H2O)4]SO4( H2O)"
+   },
+   {
+      "name":"copper(I) iodide",
+      "formula":"CuI"
+   },
+   {
+      "name":"copper(I) iodate",
+      "formula":"CuIO3"
+   },
+   {
+      "name":"copper(II) iodate",
+      "formula":"Cu(IO3)2"
+   },
+   {
+      "name":"copper(II) orthomolybdate",
+      "formula":"CuMoO4"
+   },
+   {
+      "name":"copper(II) nitrate",
+      "formula":"Cu(NO3)2"
+   },
+   {
+      "name":"copper(II) nitrate trihydrate",
+      "formula":"Cu(NO3)2( 3H2O)"
+   },
+   {
+      "name":"copper(II) nitrate hexahydrate",
+      "formula":"Cu(NO3)2( 6H2O)"
+   },
+   {
+      "name":"copper(II) orthoniobate",
+      "formula":"Cu(NbO3)2"
+   },
+   {
+      "name":"copper(II) oxide",
+      "formula":"CuO"
+   },
+   {
+      "name":"copper(II) hydroxide",
+      "formula":"Cu(OH)2"
+   },
+   {
+      "name":"Verdigris",
+      "formula":"Cu(OH)2CO3"
+   },
+   {
+      "name":"covellite",
+      "formula":"CuS"
+   },
+   {
+      "name":"copper(I) thiocyanate",
+      "formula":"CuSCN"
+   },
+   {
+      "name":"copper(II) sulfate",
+      "formula":"CuSO4"
+   },
+   {
+      "name":"copper(II) sulfate pentahydrate",
+      "formula":"CuSO4( 5H2O)"
+   },
+   {
+      "name":"copper(II) selenide",
+      "formula":"CuSe"
+   },
+   {
+      "name":"copper(II) selenite dihydrate",
+      "formula":"CuSeO3( 2H2O)"
+   },
+   {
+      "name":"copper(II) selenate pentahydride",
+      "formula":"CuSeO4( 5H2O)"
+   },
+   {
+      "name":"copper(II) metasilicate",
+      "formula":"CuSiO3"
+   },
+   {
+      "name":"copper(II) telluride",
+      "formula":"CuTe"
+   },
+   {
+      "name":"copper(II) tellurite",
+      "formula":"CuTeO3"
+   },
+   {
+      "name":"copper(II) metatitanate",
+      "formula":"CuTiO3"
+   },
+   {
+      "name":"copper(II) metavanadate",
+      "formula":"Cu(VO3)2"
+   },
+   {
+      "name":"copper(II) orthotungstate",
+      "formula":"CuWO4"
+   },
+   {
+      "name":"malachite",
+      "formula":"Cu2CO3(OH)2"
+   },
+   {
+      "name":"copper(I) sulfide",
+      "formula":"Cu2S"
+   },
+   {
+      "name":"copper(I) selenide",
+      "formula":"Cu2Se"
+   },
+   {
+      "name":"copper(I) telluride",
+      "formula":"Cu2Te"
+   },
+   {
+      "name":"copper(I) arsenide",
+      "formula":"Cu3As"
+   },
+   {
+      "name":"copper(I) phosphide",
+      "formula":"Cu3P"
+   },
+   {
+      "name":"copper(II) phosphate",
+      "formula":"Cu3(PO4)2"
+   },
+   {
+      "name":"copper(III) antimonide",
+      "formula":"Cu3Sb"
+   },
+   {
+      "name":"copper sulfide",
+      "formula":"Cu9S5"
+   },
+   {
+      "name":"brass",
+      "formula":"Cu3Zn2"
+   },
+   {
+      "name":"deuterium bromide",
+      "formula":"DBr"
+   },
+   {
+      "name":"deuterium iodide",
+      "formula":"DI"
+   },
+   {
+      "name":"lithium deuteride",
+      "formula":"DLi"
+   },
+   {
+      "name":"sodium deuteride",
+      "formula":"DNa"
+   },
+   {
+      "name":"heavy water",
+      "formula":"D2O"
+   },
+   {
+      "name":"trideuterium oxide",
+      "formula":"D3O"
+   },
+   {
+      "name":"dysprosium(III) bromide",
+      "formula":"DyBr3"
+   },
+   {
+      "name":"dysprosium(II) chloride",
+      "formula":"DyCl2"
+   },
+   {
+      "name":"dysprosium(III) chloride",
+      "formula":"DyCl3"
+   },
+   {
+      "name":"dysprosium(II) silicide",
+      "formula":"DySi2"
+   },
+   {
+      "name":"dysprosium(III) oxide",
+      "formula":"Dy2O3"
+   },
+   {
+      "name":"dysprosium(III) sulfide",
+      "formula":"Dy2S3"
+   },
+   {
+      "name":"erbium monofluoride",
+      "formula":"ErF"
+   },
+   {
+      "name":"erbium difluoride",
+      "formula":"ErF2"
+   },
+   {
+      "name":"erbium trifluoride",
+      "formula":"ErF3"
+   },
+   {
+      "name":"erbium triiodide",
+      "formula":"ErI3"
+   },
+   {
+      "name":"erbium sodium tetraiodide",
+      "formula":"ErI4Na"
+   },
+   {
+      "name":"erbium monoxide",
+      "formula":"ErO"
+   },
+   {
+      "name":"europium monofluoride",
+      "formula":"EuF"
+   },
+   {
+      "name":"europium trifluoride",
+      "formula":"EuF3"
+   },
+   {
+      "name":"europium diiodide",
+      "formula":"EuI2"
+   },
+   {
+      "name":"europium niobium dioxide",
+      "formula":"EuNbO2"
+   },
+   {
+      "name":"europium diniobium hexaoxide",
+      "formula":"EuNb2O6"
+   },
+   {
+      "name":"europium monoxide",
+      "formula":"EuO"
+   },
+   {
+      "name":"monoeuropium monovandium dioxide",
+      "formula":"EuO2V"
+   },
+   {
+      "name":"europium titanium trioxide",
+      "formula":"EuO3Ti"
+   },
+   {
+      "name":"europium metavanadate",
+      "formula":"EuO3V"
+   },
+   {
+      "name":"europium tungsten tetraoxide",
+      "formula":"EuO4W"
+   },
+   {
+      "name":"europium monosulfide",
+      "formula":"EuS"
+   },
+   {
+      "name":"europium disulfide",
+      "formula":"EuS2"
+   },
+   {
+      "name":"dieuropium monoxide",
+      "formula":"Eu2O"
+   },
+   {
+      "name":"dieuropium dioxide",
+      "formula":"Eu2O2"
+   },
+   {
+      "name":"dieuropium monosulfide",
+      "formula":"Eu2S"
+   },
+   {
+      "name":"dieuropium disulfide",
+      "formula":"Eu2S2"
+   },
+   {
+      "name":"iron fluoride",
+      "formula":"F2Fe"
+   },
+   {
+      "name":"gallium monofluoride",
+      "formula":"FGa"
+   },
+   {
+      "name":"gallium monofluoride monoxide",
+      "formula":"FGaO"
+   },
+   {
+      "name":"gadolinium monofluoride",
+      "formula":"FGd"
+   },
+   {
+      "name":"germanium monofluoride",
+      "formula":"FGe"
+   },
+   {
+      "name":"holmium monofluoride",
+      "formula":"FHo"
+   },
+   {
+      "name":"iodine monofluoride",
+      "formula":"FI"
+   },
+   {
+      "name":"monofluorodiiodine",
+      "formula":"FI2"
+   },
+   {
+      "name":"indium monofluoride",
+      "formula":"FIn"
+   },
+   {
+      "name":"lanthanum monofluoride",
+      "formula":"FLa"
+   },
+   {
+      "name":"lithium fluoride",
+      "formula":"FLi"
+   },
+   {
+      "name":"lithium hypofluorite",
+      "formula":"FLiO"
+   },
+   {
+      "name":"dilithium monofluoride",
+      "formula":"FLi2"
+   },
+   {
+      "name":"magnesium monofluoride",
+      "formula":"FMg"
+   },
+   {
+      "name":"monomanganese monofluoride",
+      "formula":"FMn"
+   },
+   {
+      "name":"manganese fluoride trioxide",
+      "formula":"FMnO3"
+   },
+   {
+      "name":"molybdenum monofluoride",
+      "formula":"FMo"
+   },
+   {
+      "name":"fluoroimidogen",
+      "formula":"FN"
+   },
+   {
+      "name":"nitrosyl fluoride",
+      "formula":"FNO"
+   },
+   {
+      "name":"nitryl fluoride",
+      "formula":"FNO2"
+   },
+   {
+      "name":"fluorine nitrate",
+      "formula":"FNO3"
+   },
+   {
+      "name":"thiazyl fluoride",
+      "formula":"FNS"
+   },
+   {
+      "name":"sodium fluoride",
+      "formula":"FNa"
+   },
+   {
+      "name":"disodium monofluoride",
+      "formula":"FNa2"
+   },
+   {
+      "name":"neodymium monofluoride",
+      "formula":"FNd"
+   },
+   {
+      "name":"oxygen monofluoride",
+      "formula":"FO"
+   },
+   {
+      "name":"thorium monofluoride monoxide",
+      "formula":"FOTh"
+   },
+   {
+      "name":"titanium fluoride oxide",
+      "formula":"FOTi"
+   },
+   {
+      "name":"dioxygen monofluoride",
+      "formula":"FO2"
+   },
+   {
+      "name":"fluorosulfate radical",
+      "formula":"FO3S"
+   },
+   {
+      "name":"phosphorus monofluoride",
+      "formula":"FP"
+   },
+   {
+      "name":"phosphenothious fluoride",
+      "formula":"FPS"
+   },
+   {
+      "name":"phosphenodithioic fluoride",
+      "formula":"FPS2"
+   },
+   {
+      "name":"lead monofluoride",
+      "formula":"FPb"
+   },
+   {
+      "name":"plutonium monofluoride",
+      "formula":"FPu"
+   },
+   {
+      "name":"rubidium fluoride",
+      "formula":"FRb"
+   },
+   {
+      "name":"monosulfur monofluoride",
+      "formula":"FS"
+   },
+   {
+      "name":"scandium monofluoride",
+      "formula":"FSc"
+   },
+   {
+      "name":"samarium monofluoride",
+      "formula":"FSm"
+   },
+   {
+      "name":"tin monofluoride",
+      "formula":"FSn"
+   },
+   {
+      "name":"strontium monofluoride",
+      "formula":"FSr"
+   },
+   {
+      "name":"thorium monofluoride",
+      "formula":"FTh"
+   },
+   {
+      "name":"titanium fluoride",
+      "formula":"FTi"
+   },
+   {
+      "name":"thallium monofluoride",
+      "formula":"FTl"
+   },
+   {
+      "name":"tungsten monofluoride",
+      "formula":"FW"
+   },
+   {
+      "name":"xenon monofluoride",
+      "formula":"FXe"
+   },
+   {
+      "name":"yttrium monofluoride",
+      "formula":"FY"
+   },
+   {
+      "name":"zirconium fluoride",
+      "formula":"FZr"
+   },
+   {
+      "name":"fluorine",
+      "formula":"F2"
+   },
+   {
+      "name":"ferrous fluoride",
+      "formula":"F2Fe"
+   },
+   {
+      "name":"gallium difluoride",
+      "formula":"F2Ga"
+   },
+   {
+      "name":"gadolinium difluoride",
+      "formula":"F2Gd"
+   },
+   {
+      "name":"germanium difluoride",
+      "formula":"F2Ge"
+   },
+   {
+      "name":"difluorogermanone",
+      "formula":"F2GeO"
+   },
+   {
+      "name":"mercury fluoride",
+      "formula":"F2Hg"
+   },
+   {
+      "name":"mercury fluoride",
+      "formula":"F2Hg2"
+   },
+   {
+      "name":"holmium difluoride",
+      "formula":"F2Ho"
+   },
+   {
+      "name":"difluoroiodophosphine",
+      "formula":"F2IP"
+   },
+   {
+      "name":"dipotassium difluoride",
+      "formula":"F2K2"
+   },
+   {
+      "name":"krypton difluoride",
+      "formula":"F2Kr"
+   },
+   {
+      "name":"lanthanum difluoride",
+      "formula":"F2La"
+   },
+   {
+      "name":"lithium fluoride",
+      "formula":"F2Li2"
+   },
+   {
+      "name":"magnesium fluoride",
+      "formula":"F2Mg"
+   },
+   {
+      "name":"manganese difluoride",
+      "formula":"F2Mn"
+   },
+   {
+      "name":"molybdenum difluoride",
+      "formula":"F2Mo"
+   },
+   {
+      "name":"molybdenum difluoride dioxide",
+      "formula":"F2MoO2"
+   },
+   {
+      "name":"difluoroamino radical",
+      "formula":"F2N"
+   },
+   {
+      "name":"nitrosodifluoroamine",
+      "formula":"F2N2O"
+   },
+   {
+      "name":"disodium difluoride",
+      "formula":"F2Na2"
+   },
+   {
+      "name":"neodymium difluoride",
+      "formula":"F2Nd"
+   },
+   {
+      "name":"nickel difluoride",
+      "formula":"F2Ni"
+   },
+   {
+      "name":"oxygen difluoride",
+      "formula":"F2O"
+   },
+   {
+      "name":"thionyl fluoride",
+      "formula":"F2OS"
+   },
+   {
+      "name":"difluorooxosilane",
+      "formula":"F2OSi"
+   },
+   {
+      "name":"titanium fluoride oxide",
+      "formula":"F2OTi"
+   },
+   {
+      "name":"perfluoroperoxide",
+      "formula":"F2O2"
+   },
+   {
+      "name":"sulfuryl fluoride",
+      "formula":"F2O2S"
+   },
+   {
+      "name":"tungsten difluoride dioxide",
+      "formula":"F2O2W"
+   },
+   {
+      "name":"peroxydisulfuryl difluoride",
+      "formula":"F2O5S3"
+   },
+   {
+      "name":"phosphorus difluoride",
+      "formula":"F2P"
+   },
+   {
+      "name":"lead difluoride",
+      "formula":"F2Pb"
+   },
+   {
+      "name":"platinum difluoride",
+      "formula":"F2Pt"
+   },
+   {
+      "name":"plutonium difluoride",
+      "formula":"F2Pu"
+   },
+   {
+      "name":"sulfur difluoride",
+      "formula":"F2S"
+   },
+   {
+      "name":"tungsten difluoride monosulfide",
+      "formula":"F2SW"
+   },
+   {
+      "name":"difluorodisulfane",
+      "formula":"F2S2"
+   },
+   {
+      "name":"thiothionyl fluoride",
+      "formula":"F2S2"
+   },
+   {
+      "name":"tungsten difluoride disulfide",
+      "formula":"F2S2W"
+   },
+   {
+      "name":"scandium difluoride",
+      "formula":"F2Sc"
+   },
+   {
+      "name":"selenium difluoride",
+      "formula":"F2Se"
+   },
+   {
+      "name":"difluorosilylene",
+      "formula":"F2Si"
+   },
+   {
+      "name":"tin difluoride",
+      "formula":"F2Sn"
+   },
+   {
+      "name":"strontium fluoride",
+      "formula":"F2Sr"
+   },
+   {
+      "name":"thorium difluoride",
+      "formula":"F2Th"
+   },
+   {
+      "name":"titanium difluoride",
+      "formula":"F2Ti"
+   },
+   {
+      "name":"dithallium difluoride",
+      "formula":"F2Tl2"
+   },
+   {
+      "name":"tungsten difluoride",
+      "formula":"F2W"
+   },
+   {
+      "name":"xenon difluoride",
+      "formula":"F2Xe"
+   },
+   {
+      "name":"yttrium difluoride",
+      "formula":"F2Y"
+   },
+   {
+      "name":"zinc difluoride",
+      "formula":"F2Zn"
+   },
+   {
+      "name":"zirconium fluoride",
+      "formula":"F2Zr"
+   },
+   {
+      "name":"iron trifluoride",
+      "formula":"F3Fe"
+   },
+   {
+      "name":"gallium trifluoride",
+      "formula":"F3Ga"
+   },
+   {
+      "name":"gadolinium trifluoride",
+      "formula":"F3Gd"
+   },
+   {
+      "name":"holmium trifluoride",
+      "formula":"F3Ho"
+   },
+   {
+      "name":"lanthanum trifluoride",
+      "formula":"F3La"
+   },
+   {
+      "name":"trilithium trifluoride",
+      "formula":"F3Li3"
+   },
+   {
+      "name":"lutetium trifluoride",
+      "formula":"F3Lu"
+   },
+   {
+      "name":"manganese trifluoride",
+      "formula":"F3Mn"
+   },
+   {
+      "name":"molybdenum trifluoride",
+      "formula":"F3Mo"
+   },
+   {
+      "name":"molybdenum trifluoride oxide",
+      "formula":"F3MoO"
+   },
+   {
+      "name":"molybdenum trifluoride sulfide",
+      "formula":"F3MoS"
+   },
+   {
+      "name":"nitrogen trifluoride",
+      "formula":"F3N"
+   },
+   {
+      "name":"nitrogen trifluoride oxide",
+      "formula":"F3NO"
+   },
+   {
+      "name":"difluoroaminosulfonyl fluoride",
+      "formula":"F3NO2S"
+   },
+   {
+      "name":"difluoraminooxysulfonyl fluoride",
+      "formula":"F3NO3S"
+   },
+   {
+      "name":"thiazyl trifluoride",
+      "formula":"F3NS"
+   },
+   {
+      "name":"sodium trifluorostannate",
+      "formula":"F3NaSn"
+   },
+   {
+      "name":"neodymium trifluoride",
+      "formula":"F3Nd"
+   },
+   {
+      "name":"phosphoryl fluoride",
+      "formula":"F3OP"
+   },
+   {
+      "name":"tantalum monoxide trifluoride",
+      "formula":"F3OTa"
+   },
+   {
+      "name":"vanadium trifluoride oxide",
+      "formula":"F3OV"
+   },
+   {
+      "name":"phosphorus trifluoride",
+      "formula":"F3P"
+   },
+   {
+      "name":"thiophosphoryl fluoride",
+      "formula":"F3PS"
+   },
+   {
+      "name":"praseodymium trifluoride",
+      "formula":"F3Pr"
+   },
+   {
+      "name":"plutonium trifluoride",
+      "formula":"F3Pu"
+   },
+   {
+      "name":"rhodium fluoride",
+      "formula":"F3Rh"
+   },
+   {
+      "name":"sulfur trifluoride",
+      "formula":"F3S"
+   },
+   {
+      "name":"tungsten trifluoride monosulfide",
+      "formula":"F3SW"
+   },
+   {
+      "name":"antimony trifluoride",
+      "formula":"F3Sb"
+   },
+   {
+      "name":"scandium fluoride",
+      "formula":"F3Sc"
+   },
+   {
+      "name":"trifluorosilyl radical",
+      "formula":"F3Si"
+   },
+   {
+      "name":"samarium trifluoride",
+      "formula":"F3Sm"
+   },
+   {
+      "name":"terbium trifluoride",
+      "formula":"F3Tb"
+   },
+   {
+      "name":"thorium trifluoride",
+      "formula":"F3Th"
+   },
+   {
+      "name":"titanium trifluoride",
+      "formula":"F3Ti"
+   },
+   {
+      "name":"thallium trifluoride",
+      "formula":"F3Tl"
+   },
+   {
+      "name":"thulium trifluoride",
+      "formula":"F3Tm"
+   },
+   {
+      "name":"tungsten trifluoride",
+      "formula":"F3W"
+   },
+   {
+      "name":"yttrium trifluoride",
+      "formula":"F3Y"
+   },
+   {
+      "name":"ytterbium trifluoride",
+      "formula":"F3Yb"
+   },
+   {
+      "name":"zirconium trifluoride",
+      "formula":"F3Zr"
+   },
+   {
+      "name":"germanium tetrafluoride",
+      "formula":"F4Ge"
+   },
+   {
+      "name":"digermanium tetrafluoride",
+      "formula":"F4Ge2"
+   },
+   {
+      "name":"hafnium fluoride",
+      "formula":"F4Hf"
+   },
+   {
+      "name":"dimagnesium tetrafluoride",
+      "formula":"F4Mg2"
+   },
+   {
+      "name":"magnesium fluoride",
+      "formula":"F4Mg2"
+   },
+   {
+      "name":"molybdenum tetrafluoride",
+      "formula":"F4Mo"
+   },
+   {
+      "name":"molybdenum tetrafluoride oxide",
+      "formula":"F4MoO"
+   },
+   {
+      "name":"molybdenum tetrafluoride monosulfide",
+      "formula":"F4MoS"
+   },
+   {
+      "name":"tetrafluorohydrazine",
+      "formula":"F4N2"
+   },
+   {
+      "name":"disodium tetrafluorostannate",
+      "formula":"F4Na2Sn"
+   },
+   {
+      "name":"osmium oxide tetrafluoride",
+      "formula":"F4OOs"
+   },
+   {
+      "name":"diphosphorus tetrafluoride oxide",
+      "formula":"F4OP2"
+   },
+   {
+      "name":"rhenium tetrafluoride oxide",
+      "formula":"F4ORe"
+   },
+   {
+      "name":"sulfur tetrafluoride oxide",
+      "formula":"F4OS"
+   },
+   {
+      "name":"tungsten tetrafluoride oxide",
+      "formula":"F4OW"
+   },
+   {
+      "name":"xenon tetrafluoride oxide",
+      "formula":"F4OXe"
+   },
+   {
+      "name":"diphosphorus tetrafluoride",
+      "formula":"F4P2"
+   },
+   {
+      "name":"lead tetrafluoride",
+      "formula":"F4Pb"
+   },
+   {
+      "name":"platinum tetrafluoride",
+      "formula":"F4Pt"
+   },
+   {
+      "name":"plutonium tetrafluoride",
+      "formula":"F4Pu"
+   },
+   {
+      "name":"sulfur tetrafluoride",
+      "formula":"F4S"
+   },
+   {
+      "name":"tungsten tetrafluoride monosulfide",
+      "formula":"F4SW"
+   },
+   {
+      "name":"selenium tetrafluoride",
+      "formula":"F4Se"
+   },
+   {
+      "name":"silicon tetrafluoride",
+      "formula":"F4Si"
+   },
+   {
+      "name":"ditin tetrafluoride",
+      "formula":"F4Sn2"
+   },
+   {
+      "name":"titanium fluoride",
+      "formula":"F4Ti"
+   },
+   {
+      "name":"uranium tetrafluoride",
+      "formula":"F4U"
+   },
+   {
+      "name":"tungsten tetrafluoride",
+      "formula":"F4W"
+   },
+   {
+      "name":"xenon tetrafluoride",
+      "formula":"F4Xe"
+   },
+   {
+      "name":"zirconium tetrafluoride",
+      "formula":"F4Zr"
+   },
+   {
+      "name":"iodine pentafluoride",
+      "formula":"F5I"
+   },
+   {
+      "name":"molybdenum pentafluoride",
+      "formula":"F5Mo"
+   },
+   {
+      "name":"rhenium monoxide pentafluoride",
+      "formula":"F5ORe"
+   },
+   {
+      "name":"phosphorus pentafluoride",
+      "formula":"F5P"
+   },
+   {
+      "name":"plutonium pentafluoride",
+      "formula":"F5Pu"
+   },
+   {
+      "name":"disulfur decafluoride",
+      "formula":"F5S"
+   },
+   {
+      "name":"antimony pentafluoride",
+      "formula":"F5Sb"
+   },
+   {
+      "name":"tantalum pentafluoride",
+      "formula":"F5Ta"
+   },
+   {
+      "name":"uranium pentafluoride",
+      "formula":"F5U"
+   },
+   {
+      "name":"tungsten pentafluoride",
+      "formula":"F5W"
+   },
+   {
+      "name":"diiron hexafluoride",
+      "formula":"F6Fe2"
+   },
+   {
+      "name":"lanthanum trifluoride dimer",
+      "formula":"F6La2"
+   },
+   {
+      "name":"molybdenum hexafluoride",
+      "formula":"F6Mo"
+   },
+   {
+      "name":"nitridotriphosphorous hexafluoride",
+      "formula":"F6NP3"
+   },
+   {
+      "name":"osmium hexafluoride",
+      "formula":"F6Os"
+   },
+   {
+      "name":"plutonium hexafluoride",
+      "formula":"F6Pu"
+   },
+   {
+      "name":"rhenium hexafluoride",
+      "formula":"F6Re"
+   },
+   {
+      "name":"sulfur hexafluoride",
+      "formula":"F6S"
+   },
+   {
+      "name":"selenium hexafluoride",
+      "formula":"F6Se"
+   },
+   {
+      "name":"hexafluorodisilane",
+      "formula":"F6Si2"
+   },
+   {
+      "name":"tritin hexafluoride",
+      "formula":"F6Sn3"
+   },
+   {
+      "name":"tellurium hexafluoride",
+      "formula":"F6Te"
+   },
+   {
+      "name":"uranium hexafluoride",
+      "formula":"F6U"
+   },
+   {
+      "name":"tungsten hexafluoride",
+      "formula":"F6W"
+   },
+   {
+      "name":"xenon hexafluoride",
+      "formula":"F6Xe"
+   },
+   {
+      "name":"iodine fluoride",
+      "formula":"F7I"
+   },
+   {
+      "name":"pentafluorosulfanyldifluoroamine",
+      "formula":"F7NS"
+   },
+   {
+      "name":"rhenium heptafluoride",
+      "formula":"F7Re"
+   },
+   {
+      "name":"octafluorotrisilane",
+      "formula":"F8Si3"
+   },
+   {
+      "name":"molybdenum fluoride",
+      "formula":"F10Mo2"
+   },
+   {
+      "name":"sulfur fluoride",
+      "formula":"F10S2"
+   },
+   {
+      "name":"molybdenum fluoride",
+      "formula":"F15Mo3"
+   },
+   {
+      "name":"iron arsenic sulfide",
+      "formula":"FeAsS"
+   },
+   {
+      "name":"iron(II) bromide",
+      "formula":"FeBr2"
+   },
+   {
+      "name":"iron(III) bromide",
+      "formula":"FeBr3"
+   },
+   {
+      "name":"iron(III) bromide hexahydrate",
+      "formula":"FeBr3( 6H2O)"
+   },
+   {
+      "name":"siderite",
+      "formula":"FeCO3"
+   },
+   {
+      "name":"iron oxalate",
+      "formula":"FeC2O4"
+   },
+   {
+      "name":"iron pentacarbonyl",
+      "formula":"FeC5O5"
+   },
+   {
+      "name":"ferrocene",
+      "formula":"FeC10H10"
+   },
+   {
+      "name":"iron(II) chloride",
+      "formula":"FeCl2"
+   },
+   {
+      "name":"iron(III) chloride",
+      "formula":"FeCl3"
+   },
+   {
+      "name":"chromite",
+      "formula":"FeCr2O4"
+   },
+   {
+      "name":"iron(II) fluoride tetrahydrate",
+      "formula":"FeF2( 4H2O)"
+   },
+   {
+      "name":"iron monoiodide",
+      "formula":"FeI"
+   },
+   {
+      "name":"iron diiodide",
+      "formula":"FeI2"
+   },
+   {
+      "name":"iron(II) iodide tetrahydrate",
+      "formula":"FeI2( 4H2O)"
+   },
+   {
+      "name":"iron(III) iodide",
+      "formula":"FeI3"
+   },
+   {
+      "name":"iron(II) orthomolybdate",
+      "formula":"FeMoO4"
+   },
+   {
+      "name":"iron monoxide",
+      "formula":"FeO"
+   },
+   {
+      "name":"iron dioxide",
+      "formula":"FeO2"
+   },
+   {
+      "name":"goethite",
+      "formula":"FeO2H"
+   },
+   {
+      "name":"limonite",
+      "formula":"FeO2H( <i>n</i>H2O)"
+   },
+   {
+      "name":"iron(II) hydroxide",
+      "formula":"Fe(OH)2"
+   },
+   {
+      "name":"iron(III) hydroxide",
+      "formula":"Fe(OH)3"
+   },
+   {
+      "name":"ferrous sulfate",
+      "formula":"FeO4S"
+   },
+   {
+      "name":"iron(II) dihydrogen phosphate",
+      "formula":"FeO8H4P2"
+   },
+   {
+      "name":"iron(III) phosphide",
+      "formula":"FeP"
+   },
+   {
+      "name":"iron sulfide",
+      "formula":"FeS"
+   },
+   {
+      "name":"pyrite",
+      "formula":"FeS2"
+   },
+   {
+      "name":"iron(II) selenide",
+      "formula":"FeSe"
+   },
+   {
+      "name":"iron(II) telluride",
+      "formula":"FeTe"
+   },
+   {
+      "name":"iron(II) metatitanate",
+      "formula":"FeTiO3"
+   },
+   {
+      "name":"iron(III) orthovanadate",
+      "formula":"FeVO4"
+   },
+   {
+      "name":"iron(II) orthotungstate",
+      "formula":"FeWO4"
+   },
+   {
+      "name":"iron(II) metazirconate",
+      "formula":"FeZrO3"
+   },
+   {
+      "name":"diiron diiodide",
+      "formula":"Fe2I2"
+   },
+   {
+      "name":"diiron tetraiodide",
+      "formula":"Fe2I4"
+   },
+   {
+      "name":"iron oxide",
+      "formula":"Fe2O3"
+   },
+   {
+      "name":"venetian red",
+      "formula":"Fe2O3"
+   },
+   {
+      "name":"ferric sulfate",
+      "formula":"Fe2O12S3"
+   },
+   {
+      "name":"iron(III) orthotungstate",
+      "formula":"Fe2O12W3"
+   },
+   {
+      "name":"diiron phosphide",
+      "formula":"Fe2P"
+   },
+   {
+      "name":"fayalite",
+      "formula":"Fe2SiO4"
+   },
+   {
+      "name":"chrysotile",
+      "formula":"Fe3H2Na2O45Si"
+   },
+   {
+      "name":"magnetite",
+      "formula":"Fe3O4"
+   },
+   {
+      "name":"iron(tri) phosphide",
+      "formula":"Fe3P"
+   },
+   {
+      "name":"amosite",
+      "formula":"Fe7Si8O24H2"
+   },
+   {
+      "name":"gallium(III) arsenide",
+      "formula":"GaAs"
+   },
+   {
+      "name":"gallium(III) orthoarsenate",
+      "formula":"GaAsO4"
+   },
+   {
+      "name":"gallium(III) bromide",
+      "formula":"GaBr3"
+   },
+   {
+      "name":"gallium(III) acetate",
+      "formula":"Ga(C2H3O2)3"
+   },
+   {
+      "name":"gallium(II) chloride",
+      "formula":"GaCl2"
+   },
+   {
+      "name":"gallium trichloride",
+      "formula":"GaCl3"
+   },
+   {
+      "name":"gallium(II) iodide",
+      "formula":"GaI2"
+   },
+   {
+      "name":"gallium(III) iodide",
+      "formula":"GaI3"
+   },
+   {
+      "name":"gallium(III) nitride",
+      "formula":"GaN"
+   },
+   {
+      "name":"gallium(III) hydroxide",
+      "formula":"Ga(OH)3"
+   },
+   {
+      "name":"gallium(III) orthophosphate",
+      "formula":"GaPO4"
+   },
+   {
+      "name":"gallium(III) antimonide",
+      "formula":"GaSb"
+   },
+   {
+      "name":"gallium(II) telluride",
+      "formula":"GaTe"
+   },
+   {
+      "name":"gallium(III) oxide",
+      "formula":"Ga2O3"
+   },
+   {
+      "name":"gallium(III) sulfate octadecahydrate",
+      "formula":"Ga2(SO4)3(18H2O)"
+   },
+   {
+      "name":"gallium(III) sulfide",
+      "formula":"Ga2S3"
+   },
+   {
+      "name":"gallium(III) telluride",
+      "formula":"Ga2Te3"
+   },
+   {
+      "name":"germanium(IV) bromide",
+      "formula":"GeBr4"
+   },
+   {
+      "name":"2-germaacetic acid",
+      "formula":"GeH3COOH"
+   },
+   {
+      "name":"germanium(II) iodide",
+      "formula":"GeI2"
+   },
+   {
+      "name":"germanium(IV) iodide",
+      "formula":"GeI4"
+   },
+   {
+      "name":"germanium(II) oxide",
+      "formula":"GeO"
+   },
+   {
+      "name":"hydrogen astatide",
+      "formula":"HAt"
+   },
+   {
+      "name":"hydrobromic acid",
+      "formula":"HBr"
+   },
+   {
+      "name":"acetylene",
+      "formula":"HCCH"
+   },
+   {
+      "name":"hydrocyanic acid",
+      "formula":"HCN"
+   },
+   {
+      "name":"formamide",
+      "formula":"HCONH2"
+   },
+   {
+      "name":"formate",
+      "formula":"HCOO"
+   },
+   {
+      "name":"formic acid",
+      "formula":"HCOOH"
+   },
+   {
+      "name":"ammonium formate",
+      "formula":"HCOONH4"
+   },
+   {
+      "name":"hydrogen carbonate ion",
+      "formula":"HCO3"
+   },
+   {
+      "name":"lactic acid",
+      "formula":"HC3H5O3"
+   },
+   {
+      "name":"pyridinium ion",
+      "formula":"HC5H5N"
+   },
+   {
+      "name":"ascorbic acid",
+      "formula":"HC6H7O6"
+   },
+   {
+      "name":"acetylsalicylic acid",
+      "formula":"HC9H7O4"
+   },
+   {
+      "name":"thiamine hydrochloride",
+      "formula":"HC12H17ON4SCl2"
+   },
+   {
+      "name":"hydrochloric acid",
+      "formula":"HCl"
+   },
+   {
+      "name":"hypochlorous acid",
+      "formula":"HClO"
+   },
+   {
+      "name":"chlorous acid",
+      "formula":"HClO2"
+   },
+   {
+      "name":"chloric acid",
+      "formula":"HClO3"
+   },
+   {
+      "name":"perchloric acid",
+      "formula":"HClO4"
+   },
+   {
+      "name":"semiheavy water",
+      "formula":"HDO"
+   },
+   {
+      "name":"hydrofluoric acid",
+      "formula":"HF"
+   },
+   {
+      "name":"hydroiodic acid",
+      "formula":"HI"
+   },
+   {
+      "name":"iodic acid",
+      "formula":"HIO3"
+   },
+   {
+      "name":"nitrous acid",
+      "formula":"HNO2"
+   },
+   {
+      "name":"nitric acid",
+      "formula":"HNO3"
+   },
+   {
+      "name":"hydrazoic acid",
+      "formula":"HN3"
+   },
+   {
+      "name":"hypochlorous acid",
+      "formula":"HOCl"
+   },
+   {
+      "name":"hypofluorous acid",
+      "formula":"HOF"
+   },
+   {
+      "name":"oxalic acid",
+      "formula":"HOOCCOOH"
+   },
+   {
+      "name":"hydrogen phosphate ion",
+      "formula":"HPO4"
+   },
+   {
+      "name":"hydrogen sulfite ion",
+      "formula":"HSO3"
+   },
+   {
+      "name":"hydrogen sulfate",
+      "formula":"HSO4"
+   },
+   {
+      "name":"partially tritiated water",
+      "formula":"HTO"
+   },
+   {
+      "name":"hydrogen",
+      "formula":"H2"
+   },
+   {
+      "name":"acrylonitrile",
+      "formula":"H2C(CH)CN"
+   },
+   {
+      "name":"formaldehyde",
+      "formula":"H2CO"
+   },
+   {
+      "name":"carbonic acid",
+      "formula":"H2CO3"
+   },
+   {
+      "name":"sulfine",
+      "formula":"H2CSO"
+   },
+   {
+      "name":"oxalic acid",
+      "formula":"H2C2O4"
+   },
+   {
+      "name":"tartaric acid",
+      "formula":"H2C4H4O6"
+   },
+   {
+      "name":"phthalic acid",
+      "formula":"H2C8H4O4"
+   },
+   {
+      "name":"chromic acid",
+      "formula":"H2CrO4"
+   },
+   {
+      "name":"glycine",
+      "formula":"H2NCH2COOH"
+   },
+   {
+      "name":"hydrazine",
+      "formula":"H2NNH2"
+   },
+   {
+      "name":"water",
+      "formula":"H2O"
+   },
+   {
+      "name":"hydrogen peroxide",
+      "formula":"H2O2"
+   },
+   {
+      "name":"dihydrogen phosphate ion",
+      "formula":"H2PO4"
+   },
+   {
+      "name":"hydrogen sulfide",
+      "formula":"H2S"
+   },
+   {
+      "name":"sulfurous acid",
+      "formula":"H2SO3"
+   },
+   {
+      "name":"sulfuric acid",
+      "formula":"H2SO4"
+   },
+   {
+      "name":"disulfuric acid",
+      "formula":"H2S2O7"
+   },
+   {
+      "name":"peroxydisulfuric acid",
+      "formula":"H2S2O8"
+   },
+   {
+      "name":"selenous acid",
+      "formula":"H2SeO3"
+   },
+   {
+      "name":"selenic acid",
+      "formula":"H2SeO4"
+   },
+   {
+      "name":"silicic acid",
+      "formula":"H2SiO3"
+   },
+   {
+      "name":"tellurous acid",
+      "formula":"H2TeO3"
+   },
+   {
+      "name":"titanic acid",
+      "formula":"H2TiO3"
+   },
+   {
+      "name":"arsenic acid",
+      "formula":"H3AsO4"
+   },
+   {
+      "name":"propane",
+      "formula":"H3CCH2CH3"
+   },
+   {
+      "name":"zwitterion",
+      "formula":"H3NCH2COO"
+   },
+   {
+      "name":"hydronium",
+      "formula":"H3O"
+   },
+   {
+      "name":"phosphoric acid",
+      "formula":"H3PO4"
+   },
+   {
+      "name":"perxenic acid",
+      "formula":"H4XeO6"
+   },
+   {
+      "name":"telluric acid",
+      "formula":"H6TeO6"
+   },
+   {
+      "name":"hafnium(IV) bromide",
+      "formula":"HfBr4"
+   },
+   {
+      "name":"hafnium(IV) fluoride",
+      "formula":"HfF4"
+   },
+   {
+      "name":"hafnium(IV) oxychloride octahydrate",
+      "formula":"HfOCl2( 8H2O)"
+   },
+   {
+      "name":"hafnium(IV) acetate, basic",
+      "formula":"HfOH(C2H3O2)3"
+   },
+   {
+      "name":"hafnium(IV) sulfate",
+      "formula":"Hf(SO4)2"
+   },
+   {
+      "name":"mercury(II) bromate dihydrate",
+      "formula":"Hg(BrO3)2( 2H2O)"
+   },
+   {
+      "name":"mercury(II) bromide",
+      "formula":"HgBr2"
+   },
+   {
+      "name":"mercury(II) acetate",
+      "formula":"Hg(C2H3O2)2"
+   },
+   {
+      "name":"mercury(II) benzoate monohydrate",
+      "formula":"Hg(C7H5O2)2( H2O)"
+   },
+   {
+      "name":"mercury(I) perchlorate tetrahydrate",
+      "formula":"HgClO4( 4H2O)"
+   },
+   {
+      "name":"mercury(II) perchlorate trihydrate",
+      "formula":"Hg(ClO4)2( 3H2O)"
+   },
+   {
+      "name":"mercury(II) chloride",
+      "formula":"HgCl2"
+   },
+   {
+      "name":"mercury(II) iodate",
+      "formula":"Hg(IO3)2"
+   },
+   {
+      "name":"mercury(II) iodide",
+      "formula":"HgI2"
+   },
+   {
+      "name":"mercury(II) nitrate monohydrate",
+      "formula":"Hg(NO3)2( H2O)"
+   },
+   {
+      "name":"mercury(II) fulminate",
+      "formula":"Hg(CNO)2"
+   },
+   {
+      "name":"mercury(II) oxide",
+      "formula":"HgO"
+   },
+   {
+      "name":"mercury(II) sulfide",
+      "formula":"HgS"
+   },
+   {
+      "name":"mercury(II) thiocyanate",
+      "formula":"Hg(SCN)2"
+   },
+   {
+      "name":"mercury(II) selenide",
+      "formula":"HgSe"
+   },
+   {
+      "name":"mercury(II) selenite",
+      "formula":"HgSeO3"
+   },
+   {
+      "name":"mercury(II) telluride",
+      "formula":"HgTe"
+   },
+   {
+      "name":"mercury(II) tellurite",
+      "formula":"HgTeO3"
+   },
+   {
+      "name":"mercury(II) tungstate",
+      "formula":"HgWO4"
+   },
+   {
+      "name":"mercury(I) bromide",
+      "formula":"Hg2Br2"
+   },
+   {
+      "name":"mercury(I) chloride",
+      "formula":"Hg2Cl2"
+   },
+   {
+      "name":"mercury(I) iodide",
+      "formula":"Hg2I2"
+   },
+   {
+      "name":"mercury(II) orthoarsenate",
+      "formula":"Hg3(AsO4)2"
+   },
+   {
+      "name":"iodine(I) bromide",
+      "formula":"IBr"
+   },
+   {
+      "name":"iodine(III) bromide",
+      "formula":"IBr3"
+   },
+   {
+      "name":"Iodine monochloride",
+      "formula":"ICl"
+   },
+   {
+      "name":"iodine(III) chloride",
+      "formula":"ICl3"
+   },
+   {
+      "name":"iodate ion",
+      "formula":"IO3"
+   },
+   {
+      "name":"iodine",
+      "formula":"I2"
+   },
+   {
+      "name":"triiodide ion",
+      "formula":"I3"
+   },
+   {
+      "name":"indium(III) arsenide",
+      "formula":"InAs"
+   },
+   {
+      "name":"indium(I) bromide",
+      "formula":"InBr"
+   },
+   {
+      "name":"indium(III) bromodiiodide",
+      "formula":"InBrI2"
+   },
+   {
+      "name":"indium(III) dibromoiodide",
+      "formula":"InBr2I"
+   },
+   {
+      "name":"indium(III) bromide",
+      "formula":"InBr3"
+   },
+   {
+      "name":"indium(I) chloride",
+      "formula":"InCl"
+   },
+   {
+      "name":"indium(II) chloride",
+      "formula":"InCl2"
+   },
+   {
+      "name":"indium(III) chloride",
+      "formula":"InCl3"
+   },
+   {
+      "name":"indium(III) chloride tetrahydrate",
+      "formula":"InCl3(4H2O)"
+   },
+   {
+      "name":"indium(I) iodide",
+      "formula":"InI"
+   },
+   {
+      "name":"indium(III) iodate",
+      "formula":"In(IO3)3"
+   },
+   {
+      "name":"indium(II) iodide",
+      "formula":"InI2"
+   },
+   {
+      "name":"indium(III) iodide",
+      "formula":"InI3"
+   },
+   {
+      "name":"indium(III) nitrate tetrahemihydrate",
+      "formula":"In(NO3)3(4.5H2O)"
+   },
+   {
+      "name":"indium(III) hydroxide",
+      "formula":"In(OH)3"
+   },
+   {
+      "name":"indium(III) phosphide",
+      "formula":"InP"
+   },
+   {
+      "name":"indium(III) orthophosphate",
+      "formula":"InPO4"
+   },
+   {
+      "name":"indium(II) sulfide",
+      "formula":"InS"
+   },
+   {
+      "name":"indium(III) antimonide",
+      "formula":"InSb"
+   },
+   {
+      "name":"indium(II) telluride",
+      "formula":"InTe"
+   },
+   {
+      "name":"indium(III) oxide",
+      "formula":"In2O3"
+   },
+   {
+      "name":"indium(III) sulfate monohydrate",
+      "formula":"In2(SO4)3(H2O)"
+   },
+   {
+      "name":"indium(III) sulfide",
+      "formula":"In2S3"
+   },
+   {
+      "name":"indium(III) selenide",
+      "formula":"In2Se3"
+   },
+   {
+      "name":"indium(III) telluride",
+      "formula":"In2Te3"
+   },
+   {
+      "name":"potassium cyanide",
+      "formula":"KCN"
+   },
+   {
+      "name":"potassium thiocyanate",
+      "formula":"KCNS"
+   },
+   {
+      "name":"potassium chloride",
+      "formula":"KCl"
+   },
+   {
+      "name":"potassium chlorate",
+      "formula":"KClO3"
+   },
+   {
+      "name":"potassium perchlorate",
+      "formula":"KClO4"
+   },
+   {
+      "name":"potassium fluoride",
+      "formula":"KF"
+   },
+   {
+      "name":"potassium bicarbonate",
+      "formula":"KHCO3"
+   },
+   {
+      "name":"potassium permanganate",
+      "formula":"KMnO4"
+   },
+   {
+      "name":"potassium nitrate",
+      "formula":"KNO3"
+   },
+   {
+      "name":"potassium nitrite",
+      "formula":"KNO2"
+   },
+   {
+      "name":"potassium carbonate",
+      "formula":"K2CO3"
+   },
+   {
+      "name":"potassium manganate",
+      "formula":"K2MnO4"
+   },
+   {
+      "name":"potassium oxide",
+      "formula":"K2O"
+   },
+   {
+      "name":"potassium peroxide",
+      "formula":"K2O2"
+   },
+   {
+      "name":"potassium hydroxide",
+      "formula":"KOH"
+   },
+   {
+      "name":"krypton difluoride",
+      "formula":"KrF2"
+   },
+   {
+      "name":"lanthanum(III) chloride",
+      "formula":"LaCl3"
+   },
+   {
+      "name":"lanthanum(III) phosphate",
+      "formula":"LaPO4"
+   },
+   {
+      "name":"lanthanum(III) phosphate crystal hemihydrate",
+      "formula":"LaPO4(0.5H2O)"
+   },
+   {
+      "name":"keatite",
+      "formula":"Li(AlSi2O6)"
+   },
+   {
+      "name":"lithium bromide",
+      "formula":"LiBr"
+   },
+   {
+      "name":"lithium bromide dihydrate",
+      "formula":"LiBr(2H2O)"
+   },
+   {
+      "name":"lithium bromate",
+      "formula":"LiBrO3"
+   },
+   {
+      "name":"lithium cyanide",
+      "formula":"LiCN"
+   },
+   {
+      "name":"lithium ethoxide",
+      "formula":"LiC2H5O"
+   },
+   {
+      "name":"lithium fluoride",
+      "formula":"LiF"
+   },
+   {
+      "name":"lithium hydrogen sulfate",
+      "formula":"LiHSO4"
+   },
+   {
+      "name":"lithium iodate",
+      "formula":"LiIO3"
+   },
+   {
+      "name":"sodium lithium",
+      "formula":"LiNa"
+   },
+   {
+      "name":"lithium nitrate",
+      "formula":"LiNO3"
+   },
+   {
+      "name":"lithium nitrate monohydrate",
+      "formula":"LiNO3(H2O)"
+   },
+   {
+      "name":"lithium tantalate",
+      "formula":"LiTaO3"
+   },
+   {
+      "name":"lithium metavanadate dihydrate",
+      "formula":"LiVO3(2H2O)"
+   },
+   {
+      "name":"lithium tetraborate pentahydrate",
+      "formula":"Li2B4O7(5H2O)"
+   },
+   {
+      "name":"lithium chromate",
+      "formula":"Li2CrO4"
+   },
+   {
+      "name":"lithium chromate dihydrate",
+      "formula":"Li2CrO4(2H2O)"
+   },
+   {
+      "name":"lithium dichromate",
+      "formula":"Li2Cr2O7"
+   },
+   {
+      "name":"lithium orthomolybdate",
+      "formula":"Li2MoO4"
+   },
+   {
+      "name":"lithium metaniobate",
+      "formula":"Li2NbO3"
+   },
+   {
+      "name":"lithium sulfate",
+      "formula":"Li2SO4"
+   },
+   {
+      "name":"lithium selenite",
+      "formula":"Li2SeO3"
+   },
+   {
+      "name":"lithium selenate",
+      "formula":"Li2SeO4"
+   },
+   {
+      "name":"lithium metasilicate",
+      "formula":"Li2SiO3"
+   },
+   {
+      "name":"lithium orthosilicate",
+      "formula":"Li4SiO4"
+   },
+   {
+      "name":"lithium tellurite",
+      "formula":"Li2TeO3"
+   },
+   {
+      "name":"lithium tellurate",
+      "formula":"Li2TeO4"
+   },
+   {
+      "name":"lithium metatitanate",
+      "formula":"Li2TiO3"
+   },
+   {
+      "name":"lithium orthotungstate",
+      "formula":"Li2WO4"
+   },
+   {
+      "name":"lithium metazirconate",
+      "formula":"Li2ZrO3"
+   },
+   {
+      "name":"magnesium aluminate",
+      "formula":"Mg(AlO2)2"
+   },
+   {
+      "name":"magnesium arsenide",
+      "formula":"As2Mg3"
+   },
+   {
+      "name":"magnesium carbonate",
+      "formula":"MgCO3"
+   },
+   {
+      "name":"magnesium oxalate",
+      "formula":"MgC2O4"
+   },
+   {
+      "name":"magnesium chlorate",
+      "formula":"Mg(ClO3)2"
+   },
+   {
+      "name":"magnesium chlorate hydrate",
+      "formula":"Mg(ClO3)2(<i>x</i>H2O)"
+   },
+   {
+      "name":"magnesium chloride",
+      "formula":"MgCl2"
+   },
+   {
+      "name":"magnesium chromate",
+      "formula":"MgCrO4"
+   },
+   {
+      "name":"magnesium chromate pentahydrate",
+      "formula":"MgCrO4(5H2O)"
+   },
+   {
+      "name":"magnesium fluoride",
+      "formula":"MgF2"
+   },
+   {
+      "name":"magnesium iodide",
+      "formula":"MgI2"
+   },
+   {
+      "name":"magnesium molybdate",
+      "formula":"MgMoO4"
+   },
+   {
+      "name":"magnesium ammonium phosphate hexahydrate",
+      "formula":"MgNH4PO4(6H2O)"
+   },
+   {
+      "name":"magnesium nitrate",
+      "formula":"Mg(NO3)2"
+   },
+   {
+      "name":"magnesium nitrate hexahydrate",
+      "formula":"Mg(NO3)2(6H2O)"
+   },
+   {
+      "name":"montmorillonite",
+      "formula":"MgNaAl5(Si4O10)3(OH)6"
+   },
+   {
+      "name":"magnesium oxide",
+      "formula":"MgO"
+   },
+   {
+      "name":"magnesium hydroxide",
+      "formula":"Mg(OH)2"
+   },
+   {
+      "name":"magnesium polonide",
+      "formula":"MgPo"
+   },
+   {
+      "name":"magnesium sulfide",
+      "formula":"MgS"
+   },
+   {
+      "name":"magnesium sulfate",
+      "formula":"MgSO4"
+   },
+   {
+      "name":"magnesium selenide",
+      "formula":"MgSe"
+   },
+   {
+      "name":"magnesium selenite",
+      "formula":"MgSeO3"
+   },
+   {
+      "name":"magnesium selenate",
+      "formula":"MgSeO4"
+   },
+   {
+      "name":"enstatite",
+      "formula":"MgSiO3"
+   },
+   {
+      "name":"magnesium metatitanate",
+      "formula":"MgTiO3"
+   },
+   {
+      "name":"magnesium metavanadate",
+      "formula":"Mg(VO3)2"
+   },
+   {
+      "name":"magnesium tungstate",
+      "formula":"MgWO4"
+   },
+   {
+      "name":"amesite",
+      "formula":"Mg2Al(AlSiO5)(OH)4"
+   },
+   {
+      "name":"magnesium pyrophosphate",
+      "formula":"Mg2P2O7"
+   },
+   {
+      "name":"forsterite",
+      "formula":"Mg2SiO4"
+   },
+   {
+      "name":"magnesium arsenide",
+      "formula":"Mg3As2"
+   },
+   {
+      "name":"magnesium bismuthide",
+      "formula":"Mg3Bi2"
+   },
+   {
+      "name":"magnesium phosphide",
+      "formula":"Mg3P2"
+   },
+   {
+      "name":"chrysotile",
+      "formula":"Mg3(Si2O5)(OH)4"
+   },
+   {
+      "name":"talc",
+      "formula":"Mg3(Si4O10)(OH)2"
+   },
+   {
+      "name":"magnesium orthovanadate",
+      "formula":"Mg3(VO4)2"
+   },
+   {
+      "name":"manganese(III) arsenide",
+      "formula":"MnAs"
+   },
+   {
+      "name":"manganese(III) bismuthide",
+      "formula":"MnBi"
+   },
+   {
+      "name":"manganese(II) bromide",
+      "formula":"MnBr2"
+   },
+   {
+      "name":"manganese(II) bromide tetrahydrate",
+      "formula":"MnBr2(4H2O)"
+   },
+   {
+      "name":"manganese(II) formate",
+      "formula":"Mn(CHO2)2"
+   },
+   {
+      "name":"manganese(II) formate dihydrate",
+      "formula":"Mn(CHO2)2(2H2O)"
+   },
+   {
+      "name":"manganese(II) carbonate",
+      "formula":"MnCO3"
+   },
+   {
+      "name":"manganese(II) chloride",
+      "formula":"MnCl2"
+   },
+   {
+      "name":"manganese(II) fluoride",
+      "formula":"MnF2"
+   },
+   {
+      "name":"manganese(II) iodide",
+      "formula":"MnI2"
+   },
+   {
+      "name":"manganese(II) orthomolybdate",
+      "formula":"MnMoO4"
+   },
+   {
+      "name":"manganese(II) nitrate",
+      "formula":"Mn(NO3)2"
+   },
+   {
+      "name":"manganese(II) nitrate tetrahydrate",
+      "formula":"Mn(NO3)2(4H2O)"
+   },
+   {
+      "name":"manganese(II) oxide",
+      "formula":"MnO"
+   },
+   {
+      "name":"manganese hydroxide",
+      "formula":"Mn(OH)2"
+   },
+   {
+      "name":"manganite",
+      "formula":"MnOOH"
+   },
+   {
+      "name":"pyrolusite",
+      "formula":"MnO2"
+   },
+   {
+      "name":"permanganate ion",
+      "formula":"MnO4"
+   },
+   {
+      "name":"barysilate",
+      "formula":"MnPb8(Si2O7)3"
+   },
+   {
+      "name":"manganese sulfide",
+      "formula":"MnS"
+   },
+   {
+      "name":"manganese(II) telluride",
+      "formula":"MnTe"
+   },
+   {
+      "name":"manganese(II) metazirconate",
+      "formula":"MnZrO3"
+   },
+   {
+      "name":"manganese(III) oxide",
+      "formula":"Mn2O3"
+   },
+   {
+      "name":"manganese(II) arsenide",
+      "formula":"Mn3As2"
+   },
+   {
+      "name":"manganese(II,III) oxide",
+      "formula":"Mn3O4"
+   },
+   {
+      "name":"manganese(II) phosphide",
+      "formula":"Mn3P2"
+   },
+   {
+      "name":"manganese(II) antimonide",
+      "formula":"Mn3Sb2"
+   },
+   {
+      "name":"molybdenum(II) bromide",
+      "formula":"MoBr2"
+   },
+   {
+      "name":"molybdenum(III) bromide",
+      "formula":"MoBr3"
+   },
+   {
+      "name":"molybdenum(II) chloride",
+      "formula":"MoCl2"
+   },
+   {
+      "name":"molybdenum(III) chloride",
+      "formula":"MoCl3"
+   },
+   {
+      "name":"molybdenum(V) chloride",
+      "formula":"MoCl5"
+   },
+   {
+      "name":"molybdenum(IV) oxide",
+      "formula":"MoO2"
+   },
+   {
+      "name":"molybdate ion",
+      "formula":"MoO4"
+   },
+   {
+      "name":"molybdenum sulfide",
+      "formula":"MoS2"
+   },
+   {
+      "name":"mercury(I) bromide",
+      "formula":"Hg2Br2"
+   },
+   {
+      "name":"Sodium tetrachloroborate",
+      "formula":"NaBCl4"
+   },
+   {
+      "name":"amide",
+      "formula":"NH2"
+   },
+   {
+      "name":"ethylenediamine",
+      "formula":"NH2CH2CH2NH2"
+   },
+   {
+      "name":"urea",
+      "formula":"NH2CONH2"
+   },
+   {
+      "name":"sulfanilic Acid",
+      "formula":"NH2C6H4SO3H"
+   },
+   {
+      "name":"hydroxylamine",
+      "formula":"NH2OH"
+   },
+   {
+      "name":"urea",
+      "formula":"(NH2)2CO"
+   },
+   {
+      "name":"ammonia",
+      "formula":"NH3"
+   },
+   {
+      "name":"ammonium",
+      "formula":"NH4"
+   },
+   {
+      "name":"ammonium nitride",
+      "formula":"(NH4)3N"
+   },
+   {
+      "name":"ammonium bromide",
+      "formula":"NH4Br"
+   },
+   {
+      "name":"ammonium carbamate",
+      "formula":"NH4CO2NH2"
+   },
+   {
+      "name":"ammonium carbonate",
+      "formula":"(NH4)2CO3"
+   },
+   {
+      "name":"ammonium chloride",
+      "formula":"NH4Cl"
+   },
+   {
+      "name":"Ammonium perchlorate",
+      "formula":"NH4ClO4"
+   },
+   {
+      "name":"ammonium hydrosulfide",
+      "formula":"NH4HS"
+   },
+   {
+      "name":"ammonium dihydrogen arsenate",
+      "formula":"(NH4)H2AsO4"
+   },
+   {
+      "name":"ammonium nitrate",
+      "formula":"NH4NO3"
+   },
+   {
+      "name":"ammonium carbamate",
+      "formula":"NH4OCONH2"
+   },
+   {
+      "name":"ammonium cerium(IV) nitrate",
+      "formula":"(NH4)2Ce(NO3)6"
+   },
+   {
+      "name":"ammonium phosphate",
+      "formula":"(NH4)3PO4"
+   },
+   {
+      "name":"ammonium chromate",
+      "formula":"(NH4)2CrO4"
+   },
+   {
+      "name":"mercury(II) ammonium thiocyanate",
+      "formula":"(NH4)2Hg(SCN)4"
+   },
+   {
+      "name":"ammonium hexachloroplatinate(IV)",
+      "formula":"(NH4)2[PtCl6]"
+   },
+   {
+      "name":"ammonium hexathiocyanoplatinate(IV)",
+      "formula":"(NH4)2[Pt(SCN)6]"
+   },
+   {
+      "name":"ammonium sulfate",
+      "formula":"(NH4)2SO4"
+   },
+   {
+      "name":"nitrogen triiodide",
+      "formula":"NI3"
+   },
+   {
+      "name":"nitric oxide",
+      "formula":"NO"
+   },
+   {
+      "name":"nitrogen dioxide",
+      "formula":"NO2"
+   },
+   {
+      "name":"nitrite ion",
+      "formula":"NO2"
+   },
+   {
+      "name":"nitryl chloride",
+      "formula":"NO2Cl"
+   },
+   {
+      "name":"nitrate ion",
+      "formula":"NO3"
+   },
+   {
+      "name":"nitrogen",
+      "formula":"N2"
+   },
+   {
+      "name":"hydrazine",
+      "formula":"N2H4"
+   },
+   {
+      "name":"nitrous oxide",
+      "formula":"N2O"
+   },
+   {
+      "name":"dinitrogen trioxide",
+      "formula":"N2O3"
+   },
+   {
+      "name":"dinitrogen tetroxide",
+      "formula":"N2O4"
+   },
+   {
+      "name":"dinitrogen pentaoxide",
+      "formula":"N2O5"
+   },
+   {
+      "name":"<i>trans</i>-tetrazene",
+      "formula":"N4H4"
+   },
+   {
+      "name":"albite",
+      "formula":"NaAlSi3O3"
+   },
+   {
+      "name":"sodium metaarsenite",
+      "formula":"NaAsO2"
+   },
+   {
+      "name":"sodium dicyanoaurate(I)",
+      "formula":"NaAu(CN)2"
+   },
+   {
+      "name":"Sodium dichromate dihydrate",
+      "formula":"Na2Cr2O7( 2H2O)"
+   },
+   {
+      "name":"sodium tetranitratoborate(III)",
+      "formula":"Na[B(NO3)4]"
+   },
+   {
+      "name":"sodium bromide",
+      "formula":"NaBr"
+   },
+   {
+      "name":"sodium cyanide",
+      "formula":"NaCN"
+   },
+   {
+      "name":"pentafluorobenzoate",
+      "formula":"NaC6F5COO"
+   },
+   {
+      "name":"sodium benzoate",
+      "formula":"NaC6H5COO"
+   },
+   {
+      "name":"thomsonite",
+      "formula":"NaCa2(Al5Si5O20)( 6H2O)"
+   },
+   {
+      "name":"sodium chloride",
+      "formula":"NaCl"
+   },
+   {
+      "name":"sodium hydride",
+      "formula":"NaH"
+   },
+   {
+      "name":"sodium formate",
+      "formula":"NaHCOO"
+   },
+   {
+      "name":"sodium bicarbonate",
+      "formula":"NaHCO3"
+   },
+   {
+      "name":"sodium bisulfite",
+      "formula":"NaHSO3"
+   },
+   {
+      "name":"sodium bisulfate",
+      "formula":"NaHSO4"
+   },
+   {
+      "name":"sodium iodide",
+      "formula":"NaI"
+   },
+   {
+      "name":"sodium sulfanilate",
+      "formula":"NaNH2C6H4SO3"
+   },
+   {
+      "name":"sodium nitrate",
+      "formula":"NaNO3"
+   },
+   {
+      "name":"sodium metaniobate",
+      "formula":"NaNbO3"
+   },
+   {
+      "name":"sodium metaniobate heptahydrate",
+      "formula":"NaNbO3( 7H2O)"
+   },
+   {
+      "name":"sodium hypochlorite",
+      "formula":"NaOCl"
+   },
+   {
+      "name":"sodium hydroxide",
+      "formula":"NaOH"
+   },
+   {
+      "name":"sodium salt of cacodylic acid",
+      "formula":"NaO2As(CH3)2( 3H2O)"
+   },
+   {
+      "name":"sodium selenite",
+      "formula":"NaSeO3"
+   },
+   {
+      "name":"sodium metatantalate",
+      "formula":"NaTaO3"
+   },
+   {
+      "name":"sodium metavanadate",
+      "formula":"NaVO3"
+   },
+   {
+      "name":"sodium carbonate",
+      "formula":"Na2CO3"
+   },
+   {
+      "name":"sodium oxalate",
+      "formula":"Na2C2O4"
+   },
+   {
+      "name":"sodium thiomolybdate",
+      "formula":"Na2MoS4"
+   },
+   {
+      "name":"sodium peroxide",
+      "formula":"Na2O2"
+   },
+   {
+      "name":"sodium oxide",
+      "formula":"Na2O"
+   },
+   {
+      "name":"sodium monosulfide",
+      "formula":"Na2S"
+   },
+   {
+      "name":"sodium sulfate",
+      "formula":"Na2SO4"
+   },
+   {
+      "name":"sodium thiosulfate",
+      "formula":"Na2S2O3"
+   },
+   {
+      "name":"sodium disulfite",
+      "formula":"Na2S2O5"
+   },
+   {
+      "name":"sodium tetrasulfide",
+      "formula":"Na2S4"
+   },
+   {
+      "name":"sodium selenite",
+      "formula":"Na2SeO3"
+   },
+   {
+      "name":"sodium selenate",
+      "formula":"Na2SeO4"
+   },
+   {
+      "name":"sodium tellurite",
+      "formula":"Na2TeO3"
+   },
+   {
+      "name":"sodium tellurate",
+      "formula":"Na2TeO4"
+   },
+   {
+      "name":"sodium metatitanate",
+      "formula":"Na2TiO3"
+   },
+   {
+      "name":"sodium zincate",
+      "formula":"Na2ZnO2"
+   },
+   {
+      "name":"sodium metazirconate",
+      "formula":"Na2ZrO3"
+   },
+   {
+      "name":"cryolite",
+      "formula":"Na3AlF6"
+   },
+   {
+      "name":"sodium tricarbonatocobaltate(III)",
+      "formula":"Na3[Co(CO3)3]"
+   },
+   {
+      "name":"sodium orthovanadate",
+      "formula":"Na3VO4"
+   },
+   {
+      "name":"sodium pyrovanadate",
+      "formula":"Na4V2O7"
+   },
+   {
+      "name":"niobium(V) bromide",
+      "formula":"NbBr5"
+   },
+   {
+      "name":"niobium(III) chloride",
+      "formula":"NbCl3"
+   },
+   {
+      "name":"niobium(V) chloride",
+      "formula":"NbCl5"
+   },
+   {
+      "name":"niobium(V) iodide",
+      "formula":"NbI5"
+   },
+   {
+      "name":"niobium(III) oxide",
+      "formula":"Nb2O3"
+   },
+   {
+      "name":"neodymium(II) chloride",
+      "formula":"NdCl2"
+   },
+   {
+      "name":"neodymium(III) iodide",
+      "formula":"NdI2"
+   },
+   {
+      "name":"neodymium hydroxide",
+      "formula":"Nd(OH)3"
+   },
+   {
+      "name":"neodymium(III) oxide",
+      "formula":"Nd2O3"
+   },
+   {
+      "name":"nickel(III) arsenide",
+      "formula":"NiAs"
+   },
+   {
+      "name":"nickel arsenic sulfide",
+      "formula":"NiAsS"
+   },
+   {
+      "name":"nickel(II) bromide",
+      "formula":"NiBr2"
+   },
+   {
+      "name":"nickel(II) bromide trihydrate",
+      "formula":"NiBr2( 3H2O)"
+   },
+   {
+      "name":"nickel(II) bromide hexahydrate",
+      "formula":"NiBr2( 6H2O)"
+   },
+   {
+      "name":"nickel tetracarbonyl",
+      "formula":"Ni(CO)4"
+   },
+   {
+      "name":"nickel(II) oxalate dihydrate",
+      "formula":"NiC2O4( 2H2O)"
+   },
+   {
+      "name":"nickel(II) chloride",
+      "formula":"NiCl2"
+   },
+   {
+      "name":"nickel(II) iron(III) oxide",
+      "formula":"NiFe2O4"
+   },
+   {
+      "name":"nickel(II) iodide",
+      "formula":"NiI2"
+   },
+   {
+      "name":"nickel(II) hypophosphite hexahydrate",
+      "formula":"Ni(H2PO)2( 6H2O)"
+   },
+   {
+      "name":"nickel(II) orthomolybdate",
+      "formula":"NiMoO4"
+   },
+   {
+      "name":"nickel(II) nitrate hexahydrate",
+      "formula":"Ni(NO3)2( 6H2O)"
+   },
+   {
+      "name":"nickel oxo-hydroxide",
+      "formula":"NiOOH"
+   },
+   {
+      "name":"nickel(II) oxide",
+      "formula":"NiO"
+   },
+   {
+      "name":"nickel(II) hydroxide",
+      "formula":"Ni(OH)2"
+   },
+   {
+      "name":"nickel(II) sulfide",
+      "formula":"NiS"
+   },
+   {
+      "name":"nickel sulfate",
+      "formula":"NiSO4"
+   },
+   {
+      "name":"nickel sulfide",
+      "formula":"NiS2"
+   },
+   {
+      "name":"nickel(II) selenide",
+      "formula":"NiSe"
+   },
+   {
+      "name":"nickel(II) metatitanate",
+      "formula":"NiTiO3"
+   },
+   {
+      "name":"nickel(II) metavanadate",
+      "formula":"Ni(VO3)2"
+   },
+   {
+      "name":"nickel(II) orthotungstate",
+      "formula":"NiWO4"
+   },
+   {
+      "name":"nickel(II) orthosilicate",
+      "formula":"Ni2SiO4"
+   },
+   {
+      "name":"nickel(II) orthophosphate",
+      "formula":"Ni3(PO4)2"
+   },
+   {
+      "name":"nickel(II) antimonide",
+      "formula":"Ni3Sb2"
+   },
+   {
+      "name":"oxygen",
+      "formula":"O"
+   },
+   {
+      "name":"dioxygen",
+      "formula":"O2"
+   },
+   {
+      "name":"superoxide ion",
+      "formula":"O2"
+   },
+   {
+      "name":"peroxide ion",
+      "formula":"O2"
+   },
+   {
+      "name":"oxygen difluoride",
+      "formula":"OF2"
+   },
+   {
+      "name":"dioxygen difluoride",
+      "formula":"O2F2"
+   },
+   {
+      "name":"hydroxide ion",
+      "formula":"OH"
+   },
+   {
+      "name":"ozone",
+      "formula":"O3"
+   },
+   {
+      "name":"ozonide ion",
+      "formula":"O3"
+   },
+   {
+      "name":"diphosphorus tetraiodine",
+      "formula":"P2I4"
+   },
+   {
+      "name":"diphosphorus trisulfide",
+      "formula":"P2S3"
+   },
+   {
+      "name":"diphosphorus triselenide",
+      "formula":"P2Se3"
+   },
+   {
+      "name":"phosphorus nitride",
+      "formula":"P3N5"
+   },
+   {
+      "name":"phosphine",
+      "formula":"PH3"
+   },
+   {
+      "name":"phosphoryl chloride",
+      "formula":"POCl3"
+   },
+   {
+      "name":"lead(II) iodate",
+      "formula":"Pb(IO3)2"
+   },
+   {
+      "name":"lead(II) nitride",
+      "formula":"Pb(N3)2"
+   },
+   {
+      "name":"lead(II) nitrate",
+      "formula":"Pb(NO3)2"
+   },
+   {
+      "name":"lead(II) hydroxide",
+      "formula":"Pb(OH)2"
+   },
+   {
+      "name":"plumbic acid",
+      "formula":"Pb(OH)4"
+   },
+   {
+      "name":"lead oxalate",
+      "formula":"PbC2O4"
+   },
+   {
+      "name":"lead carbonate",
+      "formula":"PbCO3"
+   },
+   {
+      "name":"lead chromate",
+      "formula":"PbCrO4"
+   },
+   {
+      "name":"lead(II) fluoride",
+      "formula":"PbF2"
+   },
+   {
+      "name":"lead(II) iodide",
+      "formula":"PbI2"
+   },
+   {
+      "name":"lead(II) oxide",
+      "formula":"PbO"
+   },
+   {
+      "name":"lead dioxide",
+      "formula":"PbO2"
+   },
+   {
+      "name":"lead(II) sulfide",
+      "formula":"PbS"
+   },
+   {
+      "name":"lead(II) sulfate",
+      "formula":"PbSO4"
+   },
+   {
+      "name":"polonium dibromide",
+      "formula":"PoBr2"
+   },
+   {
+      "name":"polonium dichloride",
+      "formula":"PoCl2"
+   },
+   {
+      "name":"polonium tetrachloride",
+      "formula":"PoCl4"
+   },
+   {
+      "name":"polonium hexafluoride",
+      "formula":"PoF6"
+   },
+   {
+      "name":"polonium hydride",
+      "formula":"PoH2"
+   },
+   {
+      "name":"polonium monoxide",
+      "formula":"PoO"
+   },
+   {
+      "name":"polonium dioxide",
+      "formula":"PoO2"
+   },
+   {
+      "name":"polonium trioxide",
+      "formula":"PoO3"
+   },
+   {
+      "name":"radon difluoride",
+      "formula":"RnF2"
+   },
+   {
+      "name":"ruthenium(III) chloride",
+      "formula":"RuCl3"
+   },
+   {
+      "name":"ruthenium hexafluoride",
+      "formula":"RuF6"
+   },
+   {
+      "name":"ruthenium tetroxide",
+      "formula":"RuO4"
+   },
+   {
+      "name":"thiocyanate",
+      "formula":"SCN"
+   },
+   {
+      "name":"sulfur tetrafluoride",
+      "formula":"SF4"
+   },
+   {
+      "name":"sulfur hexafluoride",
+      "formula":"SF6"
+   },
+   {
+      "name":"thionyl difluoride",
+      "formula":"SOF2"
+   },
+   {
+      "name":"sulfur dioxide",
+      "formula":"SO2"
+   },
+   {
+      "name":"sulfuryl chloride",
+      "formula":"SO2Cl2"
+   },
+   {
+      "name":"sulfuryl difluoride",
+      "formula":"SO2F2"
+   },
+   {
+      "name":"peroxymonosulfurous acid (aqueous)",
+      "formula":"SO2OOH"
+   },
+   {
+      "name":"sulfur trioxide",
+      "formula":"SO3"
+   },
+   {
+      "name":"sulfite ion",
+      "formula":"SO3"
+   },
+   {
+      "name":"sulfate ion",
+      "formula":"SO4"
+   },
+   {
+      "name":"sulfur(II) bromide",
+      "formula":"S2Br2"
+   },
+   {
+      "name":"thiosulfate ion",
+      "formula":"S2O3"
+   },
+   {
+      "name":"disulfate ion",
+      "formula":"S2O7"
+   },
+   {
+      "name":"antimony(III) bromide",
+      "formula":"SbBr3"
+   },
+   {
+      "name":"antimony(III) chloride",
+      "formula":"SbCl3"
+   },
+   {
+      "name":"antimony(V) chloride",
+      "formula":"SbCl5"
+   },
+   {
+      "name":"antimony(III) iodide",
+      "formula":"SbI3"
+   },
+   {
+      "name":"antimony(III) phosphate",
+      "formula":"SbPO4"
+   },
+   {
+      "name":"antimony oxysulfide",
+      "formula":"Sb2OS2"
+   },
+   {
+      "name":"antimony(III) oxide",
+      "formula":"Sb2O3"
+   },
+   {
+      "name":"antimony(V) oxide",
+      "formula":"Sb2O5"
+   },
+   {
+      "name":"antimony(III) sulfide",
+      "formula":"Sb2S3"
+   },
+   {
+      "name":"antimony(III) selenide",
+      "formula":"Sb2Se3"
+   },
+   {
+      "name":"antimony(V) selenide",
+      "formula":"Sb2Se5"
+   },
+   {
+      "name":"antimony(III) telluride",
+      "formula":"Sb2Te3"
+   },
+   {
+      "name":"scandium oxide",
+      "formula":"Sc2O3"
+   },
+   {
+      "name":"selenium(IV) bromide",
+      "formula":"SeBr4"
+   },
+   {
+      "name":"selenium(I) chloride",
+      "formula":"SeCl"
+   },
+   {
+      "name":"selenium(IV) chloride",
+      "formula":"SeCl4"
+   },
+   {
+      "name":"selenium(IV) oxychloride",
+      "formula":"SeOCl2"
+   },
+   {
+      "name":"selenyl difluoride",
+      "formula":"SeOF2"
+   },
+   {
+      "name":"selenium(IV) oxide",
+      "formula":"SeO2"
+   },
+   {
+      "name":"selenate ion",
+      "formula":"SeO4"
+   },
+   {
+      "name":"selenium(IV) telluride",
+      "formula":"SeTe"
+   },
+   {
+      "name":"silicon(IV) bromide",
+      "formula":"SiBr4"
+   },
+   {
+      "name":"silicon carbide",
+      "formula":"SiC"
+   },
+   {
+      "name":"silicon(IV) chloride",
+      "formula":"SiCl4"
+   },
+   {
+      "name":"silane",
+      "formula":"SiH4"
+   },
+   {
+      "name":"silicon(IV) iodide",
+      "formula":"SiI4"
+   },
+   {
+      "name":"silica",
+      "formula":"SiO2"
+   },
+   {
+      "name":"silicate ion",
+      "formula":"SiO4"
+   },
+   {
+      "name":"disilicate ion",
+      "formula":"Si2O7"
+   },
+   {
+      "name":"silicon nitride",
+      "formula":"Si3N4"
+   },
+   {
+      "name":"cyclosilicate ion",
+      "formula":"Si6O18"
+   },
+   {
+      "name":"tin(IV) bromotrichloride",
+      "formula":"SnBrCl3"
+   },
+   {
+      "name":"tin(II) bromide",
+      "formula":"SnBr2"
+   },
+   {
+      "name":"tin(IV) dibromodichloride",
+      "formula":"SnBr2Cl2"
+   },
+   {
+      "name":"tin(IV) tribromochloride",
+      "formula":"SnBr3Cl"
+   },
+   {
+      "name":"tin(IV) bromide",
+      "formula":"SnBr4"
+   },
+   {
+      "name":"tin(II) chloride",
+      "formula":"SnCl2"
+   },
+   {
+      "name":"tin(IV) dichlorodiiodide",
+      "formula":"SnCl2I2"
+   },
+   {
+      "name":"tin(IV) chloride",
+      "formula":"SnCl4"
+   },
+   {
+      "name":"tin(IV) chromate",
+      "formula":"Sn(CrO4)2"
+   },
+   {
+      "name":"tin(IV) iodide",
+      "formula":"SnI4"
+   },
+   {
+      "name":"tin(IV) oxide",
+      "formula":"SnO2"
+   },
+   {
+      "name":"stannate ion",
+      "formula":"SnO3"
+   },
+   {
+      "name":"tin(II) sulfide",
+      "formula":"SnS"
+   },
+   {
+      "name":"tin(IV) sulfide",
+      "formula":"SnS2"
+   },
+   {
+      "name":"tin(IV) sulfate dihydrate",
+      "formula":"Sn(SO4)2(2H2O)"
+   },
+   {
+      "name":"tin(II) selenide",
+      "formula":"SnSe"
+   },
+   {
+      "name":"tin(IV) selenide",
+      "formula":"SnSe2"
+   },
+   {
+      "name":"tin(II) telluride",
+      "formula":"SnTe"
+   },
+   {
+      "name":"tin(IV) telluride",
+      "formula":"SnTe4"
+   },
+   {
+      "name":"tin(II) metavanadate",
+      "formula":"Sn(VO3)2"
+   },
+   {
+      "name":"tin(IV) antimonide",
+      "formula":"Sn3Sb4"
+   },
+   {
+      "name":"strontium bromide",
+      "formula":"SrBr2"
+   },
+   {
+      "name":"strontium bromide hexahydrate",
+      "formula":"SrBr2(6H2O)"
+   },
+   {
+      "name":"strontium carbonate",
+      "formula":"SrCO3"
+   },
+   {
+      "name":"strontium chloride",
+      "formula":"SrCl2"
+   },
+   {
+      "name":"strontium oxalate",
+      "formula":"SrC2O4"
+   },
+   {
+      "name":"strontium fluoride",
+      "formula":"SrF2"
+   },
+   {
+      "name":"strontium iodide",
+      "formula":"SrI2"
+   },
+   {
+      "name":"strontium iodide hexahydrate",
+      "formula":"SrI2(6H2O)"
+   },
+   {
+      "name":"strontium permanganate",
+      "formula":"Sr(MnO4)2"
+   },
+   {
+      "name":"strontium orthomolybdate",
+      "formula":"SrMoO4"
+   },
+   {
+      "name":"strontium metaniobate",
+      "formula":"Sr(NbO3)2"
+   },
+   {
+      "name":"strontium oxide",
+      "formula":"SrO"
+   },
+   {
+      "name":"strontium ruthenate",
+      "formula":"Sr2RuO4"
+   },
+   {
+      "name":"strontium sulfide",
+      "formula":"SrS"
+   },
+   {
+      "name":"strontium selenite",
+      "formula":"SrSeO3"
+   },
+   {
+      "name":"strontium selenate",
+      "formula":"SrSeO4"
+   },
+   {
+      "name":"strontium tellurite",
+      "formula":"SrTeO3"
+   },
+   {
+      "name":"strontium tellurate",
+      "formula":"SrTeO4"
+   },
+   {
+      "name":"strontium metatitanate",
+      "formula":"SrTiO3"
+   },
+   {
+      "name":"salt",
+      "formula":"SaCl3"
+   },
+   {
+      "name":"tritium oxide",
+      "formula":"T2O"
+   },
+   {
+      "name":"tantalum(III) bromide",
+      "formula":"TaBr3"
+   },
+   {
+      "name":"tantalum(V) bromide",
+      "formula":"TaBr5"
+   },
+   {
+      "name":"tantalum(V) chloride",
+      "formula":"TaCl5"
+   },
+   {
+      "name":"tantalum(V) iodide",
+      "formula":"TaI5"
+   },
+   {
+      "name":"tantalate ion",
+      "formula":"TaO3"
+   },
+   {
+      "name":"pertechnetate ion",
+      "formula":"TcO4"
+   },
+   {
+      "name":"tellurium(II) bromide",
+      "formula":"TeBr2"
+   },
+   {
+      "name":"tellurium(IV) bromide",
+      "formula":"TeBr4"
+   },
+   {
+      "name":"tellurium(II) chloride",
+      "formula":"TeCl2"
+   },
+   {
+      "name":"tellurium(IV) chloride",
+      "formula":"TeCl4"
+   },
+   {
+      "name":"tellurium(II) iodide",
+      "formula":"TeI2"
+   },
+   {
+      "name":"tellurium(IV) iodide",
+      "formula":"TeI4"
+   },
+   {
+      "name":"tellurium(IV) oxide",
+      "formula":"TeO2"
+   },
+   {
+      "name":"tellurate ion",
+      "formula":"TeO4"
+   },
+   {
+      "name":"yttrium telluride",
+      "formula":"TeY"
+   },
+   {
+      "name":"thorium carbonate",
+      "formula":"Th(CO3)2"
+   },
+   {
+      "name":"thorium nitrate",
+      "formula":"Th(NO3)4"
+   },
+   {
+      "name":"titanium(IV) bromide",
+      "formula":"TiBr4"
+   },
+   {
+      "name":"titanium(IV) dichlorodiiodide",
+      "formula":"TiCl2I2"
+   },
+   {
+      "name":"titanium(IV) trichloroiodide",
+      "formula":"TiCl3I"
+   },
+   {
+      "name":"titanium tetrachloride",
+      "formula":"TiCl4"
+   },
+   {
+      "name":"titanium dioxide",
+      "formula":"TiO2"
+   },
+   {
+      "name":"titanate ion",
+      "formula":"TiO3"
+   },
+   {
+      "name":"thallium(I) bromide",
+      "formula":"TlBr"
+   },
+   {
+      "name":"thallium(III) bromide",
+      "formula":"TlBr3"
+   },
+   {
+      "name":"thallium(I) formate",
+      "formula":"Tl(CHO2)"
+   },
+   {
+      "name":"thallium(I) acetate",
+      "formula":"TlC2H3O2"
+   },
+   {
+      "name":"thallium(I) malonate",
+      "formula":"Tl(C3H3O4)"
+   },
+   {
+      "name":"thallium(I) chloride",
+      "formula":"TlCl"
+   },
+   {
+      "name":"thallium(III) chloride",
+      "formula":"TlCl3"
+   },
+   {
+      "name":"thallium(I) fluoride",
+      "formula":"TlF"
+   },
+   {
+      "name":"thallium(I) iodide",
+      "formula":"TlI"
+   },
+   {
+      "name":"thallium(I) iodate",
+      "formula":"TlIO3"
+   },
+   {
+      "name":"thallium(III) iodide",
+      "formula":"TlI3"
+   },
+   {
+      "name":"titanium(IV) iodide",
+      "formula":"TiI4"
+   },
+   {
+      "name":"titanium(IV) oxynitrate hydrate",
+      "formula":"TiO(NO3)2H2O"
+   },
+   {
+      "name":"thallium(I) nitrate",
+      "formula":"TlNO3"
+   },
+   {
+      "name":"thallium(I) hydroxide",
+      "formula":"TlOH"
+   },
+   {
+      "name":"thallium(I) hexafluorophosphate",
+      "formula":"TlPF6"
+   },
+   {
+      "name":"thallium thiocyanate",
+      "formula":"TlSCN"
+   },
+   {
+      "name":"thallium(I) orthomolybdate",
+      "formula":"Tl2MoO4"
+   },
+   {
+      "name":"thallium(I) selenite",
+      "formula":"Tl2SeO3"
+   },
+   {
+      "name":"thallium(I) tellurite",
+      "formula":"Tl2TeO3"
+   },
+   {
+      "name":"thallium(I) orthotungstate",
+      "formula":"Tl2WO4"
+   },
+   {
+      "name":"thallium(I) arsenide",
+      "formula":"Tl3As"
+   },
+   {
+      "name":"uranium(IV) fluoride",
+      "formula":"UF4"
+   },
+   {
+      "name":"uranium(VI) fluoride",
+      "formula":"UF6"
+   },
+   {
+      "name":"vanadium(II) bromide",
+      "formula":"VBr2"
+   },
+   {
+      "name":"vanadium(III) bromide",
+      "formula":"VBr3"
+   },
+   {
+      "name":"vanadium(II) chloride",
+      "formula":"VCl2"
+   },
+   {
+      "name":"vanadium(III) chloride",
+      "formula":"VCl3"
+   },
+   {
+      "name":"vanadium oxysulfate",
+      "formula":"VSO5"
+   },
+   {
+      "name":"vanadium(III) oxide",
+      "formula":"V2O3"
+   },
+   {
+      "name":"vanadium pentoxide",
+      "formula":"V2O5"
+   },
+   {
+      "name":"divanadate ion",
+      "formula":"V2O7"
+   },
+   {
+      "name":"tungsten(II) bromide",
+      "formula":"WBr2"
+   },
+   {
+      "name":"tungsten(III) bromide",
+      "formula":"WBr3"
+   },
+   {
+      "name":"tungsten(IV) bromide",
+      "formula":"WBr4"
+   },
+   {
+      "name":"tungsten(V) bromide",
+      "formula":"WBr5"
+   },
+   {
+      "name":"tungsten(VI) bromide",
+      "formula":"WBr6"
+   },
+   {
+      "name":"tungsten(VI) carbonyl",
+      "formula":"W(CO)6"
+   },
+   {
+      "name":"tungsten(II) chloride",
+      "formula":"WCl2"
+   },
+   {
+      "name":"tungsten(III) chloride",
+      "formula":"WCl3"
+   },
+   {
+      "name":"tungsten(IV) chloride",
+      "formula":"WCl4"
+   },
+   {
+      "name":"tungsten(V) chloride",
+      "formula":"WCl5"
+   },
+   {
+      "name":"tungsten(VI) chloride",
+      "formula":"WCl6"
+   },
+   {
+      "name":"tungsten(IV) fluoride",
+      "formula":"WF4"
+   },
+   {
+      "name":"tungsten(V) fluoride",
+      "formula":"WF5"
+   },
+   {
+      "name":"tungsten(VI) fluoride",
+      "formula":"WF6"
+   },
+   {
+      "name":"tungsten(II) iodide",
+      "formula":"WI2"
+   },
+   {
+      "name":"tungsten(IV) iodide",
+      "formula":"WI4"
+   },
+   {
+      "name":"tungsten(V) oxytribromide",
+      "formula":"WOBr3"
+   },
+   {
+      "name":"tungsten(VI) oxytetrabromide",
+      "formula":"WOBr4"
+   },
+   {
+      "name":"tungsten(V) oxytrichloride",
+      "formula":"WOCl3"
+   },
+   {
+      "name":"tungsten(VI) oxytetrachloride",
+      "formula":"WOCl4"
+   },
+   {
+      "name":"tungsten(VI) oxytetrafluoride",
+      "formula":"WOF2"
+   },
+   {
+      "name":"tungsten(IV) oxide",
+      "formula":"WO2"
+   },
+   {
+      "name":"tungsten(VI) dioxydibromide",
+      "formula":"WO2Br2"
+   },
+   {
+      "name":"tungsten(VI) dioxydichloride",
+      "formula":"WO2Cl2"
+   },
+   {
+      "name":"tungsten(VI) dioxydiiodide",
+      "formula":"WO2I2"
+   },
+   {
+      "name":"tungsten(VI) oxide",
+      "formula":"WO3"
+   },
+   {
+      "name":"tungstate ion",
+      "formula":"WO4"
+   },
+   {
+      "name":"tungsten(IV) sulfide",
+      "formula":"WS2"
+   },
+   {
+      "name":"tungsten(VI) sulfide",
+      "formula":"WS3"
+   },
+   {
+      "name":"tungsten(IV) selenide",
+      "formula":"WSe2"
+   },
+   {
+      "name":"tungsten(IV) telluride",
+      "formula":"WTe2"
+   },
+   {
+      "name":"tungsten carbide",
+      "formula":"W2C"
+   },
+   {
+      "name":"yttrium arsenide",
+      "formula":"YAs"
+   },
+   {
+      "name":"yttrium boride",
+      "formula":"YB6"
+   },
+   {
+      "name":"yttrium bromide",
+      "formula":"YBr3"
+   },
+   {
+      "name":"yttrium carbide",
+      "formula":"YC2"
+   },
+   {
+      "name":"ytrrium chloride",
+      "formula":"YCl3"
+   },
+   {
+      "name":"yttrium fluoride",
+      "formula":"YF3"
+   },
+   {
+      "name":"yttrium phosphide",
+      "formula":"YP"
+   },
+   {
+      "name":"yttrium antimonide",
+      "formula":"YSb"
+   },
+   {
+      "name":"yttrium vanadate",
+      "formula":"YVO4"
+   },
+   {
+      "name":"yttria",
+      "formula":"Y2O3"
+   },
+   {
+      "name":"yttrium sulfide",
+      "formula":"Y2S3"
+   },
+   {
+      "name":"ytterbium(II) bromide",
+      "formula":"YbBr2"
+   },
+   {
+      "name":"ytterbium(III) bromide",
+      "formula":"YbBr3"
+   },
+   {
+      "name":"ytterbium(II)chloride",
+      "formula":"YbCl2"
+   },
+   {
+      "name":"ytterbium(III) chloride",
+      "formula":"YbCl3"
+   },
+   {
+      "name":"ytterbium(III) chloride hexahydrate",
+      "formula":"YbCl3(6H2O)"
+   },
+   {
+      "name":"ytterbium(II) fluoride",
+      "formula":"YbF2"
+   },
+   {
+      "name":"ytterbium(III) fluoride",
+      "formula":"YbF3"
+   },
+   {
+      "name":"ytterbium(II) iodide",
+      "formula":"YbI2"
+   },
+   {
+      "name":"ytterbium(III) iodide",
+      "formula":"YbI3"
+   },
+   {
+      "name":"ytterbium(II) selenide",
+      "formula":"YbSe"
+   },
+   {
+      "name":"ytterbium(II) silicide",
+      "formula":"YbSi2"
+   },
+   {
+      "name":"ytterbium(III) oxide",
+      "formula":"Yb2O3"
+   },
+   {
+      "name":"ytterbium(III) sulfide",
+      "formula":"Yb2S3"
+   },
+   {
+      "name":"ytterbium(III) selenide",
+      "formula":"Yb2Se3"
+   },
+   {
+      "name":"ytterbium(II) telluride",
+      "formula":"YbTe"
+   },
+   {
+      "name":"zinc aluminate",
+      "formula":"Zn(AlO2)2"
+   },
+   {
+      "name":"zinc arsenite",
+      "formula":"Zn(AsO2)2"
+   },
+   {
+      "name":"zinc bromide",
+      "formula":"ZnBr2"
+   },
+   {
+      "name":"zinc cyanide",
+      "formula":"Zn(CN)2"
+   },
+   {
+      "name":"zinc carbonate",
+      "formula":"ZnCO3"
+   },
+   {
+      "name":"zinc caprylate",
+      "formula":"Zn(C8H15O2)2"
+   },
+   {
+      "name":"zinc chlorate",
+      "formula":"Zn(ClO3)2"
+   },
+   {
+      "name":"zinc chloride",
+      "formula":"ZnCl2"
+   },
+   {
+      "name":"zinc chromite",
+      "formula":"ZnCr2O4"
+   },
+   {
+      "name":"zinc fluoride",
+      "formula":"ZnF2"
+   },
+   {
+      "name":"zinc iodate",
+      "formula":"Zn(IO3)2"
+   },
+   {
+      "name":"zinc iodide",
+      "formula":"ZnI2"
+   },
+   {
+      "name":"zinc orthomolybdate",
+      "formula":"ZnMoO4"
+   },
+   {
+      "name":"zinc nitrite",
+      "formula":"Zn(NO2)2"
+   },
+   {
+      "name":"zinc nitrate",
+      "formula":"Zn(NO3)2"
+   },
+   {
+      "name":"zinc metaniobate",
+      "formula":"Zn(NbO3)2"
+   },
+   {
+      "name":"zinc(II) oxide",
+      "formula":"ZnO"
+   },
+   {
+      "name":"zinc peroxide",
+      "formula":"ZnO2"
+   },
+   {
+      "name":"zinc hydroxide",
+      "formula":"Zn(OH)2"
+   },
+   {
+      "name":"zincate ion",
+      "formula":"Zn(OH)4"
+   },
+   {
+      "name":"zinc sulfide",
+      "formula":"ZnS"
+   },
+   {
+      "name":"zinc thiocyanate",
+      "formula":"Zn(SCN)2"
+   },
+   {
+      "name":"zinc sulfate",
+      "formula":"ZnSO4"
+   },
+   {
+      "name":"zinc antimonide",
+      "formula":"ZnSb"
+   },
+   {
+      "name":"zinc selenide",
+      "formula":"ZnSe"
+   },
+   {
+      "name":"zinc selenite",
+      "formula":"ZnSeO3"
+   },
+   {
+      "name":"zinc stannate",
+      "formula":"ZnSnO3"
+   },
+   {
+      "name":"zinc metatantalate",
+      "formula":"Zn(TaO3)2"
+   },
+   {
+      "name":"zinc telluride",
+      "formula":"ZnTe"
+   },
+   {
+      "name":"zinc tellurite",
+      "formula":"ZnTeO3"
+   },
+   {
+      "name":"zinc tellurate",
+      "formula":"ZnTeO4"
+   },
+   {
+      "name":"zinc metatitanate",
+      "formula":"ZnTiO3"
+   },
+   {
+      "name":"zinc metavanadate",
+      "formula":"Zn(VO3)2"
+   },
+   {
+      "name":"zinc orthotungstate",
+      "formula":"ZnWO4"
+   },
+   {
+      "name":"zinc metazirconate",
+      "formula":"ZnZrO3"
+   },
+   {
+      "name":"zinc pyrophosphate",
+      "formula":"Zn2P2O7"
+   },
+   {
+      "name":"zinc orthosilicate",
+      "formula":"Zn2SiO4"
+   },
+   {
+      "name":"zinc arsenate",
+      "formula":"Zn3(AsO4)2"
+   },
+   {
+      "name":"zinc arsenide",
+      "formula":"Zn3As2"
+   },
+   {
+      "name":"zinc nitride",
+      "formula":"Zn3N2"
+   },
+   {
+      "name":"zinc phosphide",
+      "formula":"Zn3P2"
+   },
+   {
+      "name":"zinc phosphate",
+      "formula":"Zn3(PO4)2"
+   },
+   {
+      "name":"zinc antimonide",
+      "formula":"Zn3Sb2"
+   },
+   {
+      "name":"zirconium boride",
+      "formula":"ZrB2"
+   },
+   {
+      "name":"zirconium bromide",
+      "formula":"ZrBr4"
+   },
+   {
+      "name":"zirconium carbide",
+      "formula":"ZrC"
+   },
+   {
+      "name":"zirconium tetrachloride",
+      "formula":"ZrCl4"
+   },
+   {
+      "name":"zirconium fluoride",
+      "formula":"ZrF4"
+   },
+   {
+      "name":"zirconium iodide",
+      "formula":"ZrI4"
+   },
+   {
+      "name":"zirconium nitride",
+      "formula":"ZrN"
+   },
+   {
+      "name":"zirconium hydroxide",
+      "formula":"Zr(OH)4"
+   },
+   {
+      "name":"zirconium dioxide",
+      "formula":"ZrO2"
+   },
+   {
+      "name":"zirconate ion",
+      "formula":"ZrO3"
+   },
+   {
+      "name":"zirconium phosphide",
+      "formula":"ZrP2"
+   },
+   {
+      "name":"zirconium sulfide",
+      "formula":"ZrS2"
+   },
+   {
+      "name":"zirconium silicide",
+      "formula":"ZrSi2"
+   },
+   {
+      "name":"zirconium orthosilicate",
+      "formula":"ZrSiO4"
+   },
+   {
+      "name":"zirconium phosphate",
+      "formula":"Zr3(PO4)4"
+   }
+]
